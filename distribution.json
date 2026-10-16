@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.5",
+                        "version":  "0.1.6",
                         "address":  "localhost:25565",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -28,7 +28,7 @@
                                             "artifact":  {
                                                              "size":  1944518,
                                                              "MD5":  "56c00fa22e0452e8567be1feae73c3b9",
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0001.jar"
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0001.jar"
                                                          },
                                             "subModules":  [
                                                                {
@@ -38,7 +38,7 @@
                                                                    "artifact":  {
                                                                                     "size":  2847,
                                                                                     "MD5":  "741200cf4e0dc8df5eed7701f534c7dc",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0002.json"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0002.json"
                                                                                 }
                                                                },
                                                                {
@@ -48,7 +48,7 @@
                                                                    "artifact":  {
                                                                                     "size":  126122,
                                                                                     "MD5":  "6d1dd0482c03a6dc1807d9d004456021",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0003.jar"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0003.jar"
                                                                                 }
                                                                },
                                                                {
@@ -58,7 +58,7 @@
                                                                    "artifact":  {
                                                                                     "size":  35149,
                                                                                     "MD5":  "f07383cfbd50f097558341a03b8871e1",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0004.jar"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0004.jar"
                                                                                 }
                                                                },
                                                                {
@@ -68,7 +68,7 @@
                                                                    "artifact":  {
                                                                                     "size":  74348,
                                                                                     "MD5":  "8103b3de8f48fb4c7f97efdaa46ce809",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0005.jar"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0005.jar"
                                                                                 }
                                                                },
                                                                {
@@ -78,7 +78,7 @@
                                                                    "artifact":  {
                                                                                     "size":  51947,
                                                                                     "MD5":  "912eeaba1a63d574ffc66c651c7c6725",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0006.jar"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0006.jar"
                                                                                 }
                                                                },
                                                                {
@@ -88,7 +88,7 @@
                                                                    "artifact":  {
                                                                                     "size":  94565,
                                                                                     "MD5":  "ef5e90e736cd09bc407c1d46a3faba0f",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0007.jar"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0007.jar"
                                                                                 }
                                                                },
                                                                {
@@ -98,7 +98,7 @@
                                                                    "artifact":  {
                                                                                     "size":  1505269,
                                                                                     "MD5":  "d27dcb910788a0bd4bea72942a714093",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0008.jar"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0008.jar"
                                                                                 }
                                                                },
                                                                {
@@ -108,7 +108,7 @@
                                                                    "artifact":  {
                                                                                     "size":  657725,
                                                                                     "MD5":  "850be48a3406b9efdf8e64b1c2db97f8",
-                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0009.jar"
+                                                                                    "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0009.jar"
                                                                                 }
                                                                }
                                                            ]
@@ -119,7 +119,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  65,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0010.properties",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0010.properties",
                                                              "MD5":  "0c1dd43e9ebb98cf674e40a7686d3c1c",
                                                              "path":  "config/cobblecompute-client.properties"
                                                          }
@@ -130,7 +130,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1095802,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0011.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0011.jar",
                                                              "MD5":  "1f332447eadf66a07b33e641816fcd5e",
                                                              "path":  "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar"
                                                          }
@@ -141,7 +141,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  398321,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0012.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0012.jar",
                                                              "MD5":  "a256ab28e228cee098a516eef191c886",
                                                              "path":  "mods/accessories_compat_layer-fabric-0.1.12+1.21.1.jar"
                                                          }
@@ -152,7 +152,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  430412,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0013.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0013.jar",
                                                              "MD5":  "0d7e6553d89b0175237310571d8c9fbe",
                                                              "path":  "mods/advancementdisable-fabric-1.0.1+1.21.jar"
                                                          }
@@ -163,7 +163,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  195505,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0014.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0014.jar",
                                                              "MD5":  "99b36bb8a2f7fd84ea83c00b65be9b90",
                                                              "path":  "mods/AdvancementPlaques-1.21.1-fabric-1.6.8.jar"
                                                          }
@@ -174,7 +174,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  600915,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0015.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0015.jar",
                                                              "MD5":  "702e92d09a4855c6c8aa9e738a48efa4",
                                                              "path":  "mods/architectury-13.0.8-fabric.jar"
                                                          }
@@ -185,7 +185,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  88425,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0016.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0016.jar",
                                                              "MD5":  "a549af3b3a32722ab81ff11d9f44f90b",
                                                              "path":  "mods/athena-fabric-1.21.1-4.0.6.jar"
                                                          }
@@ -196,7 +196,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  283566,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0017.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0017.jar",
                                                              "MD5":  "59ee243a5ccd09fff1dd2879b3cad72a",
                                                              "path":  "mods/BadOptimizations-2.4.1-1.21.1.jar"
                                                          }
@@ -207,7 +207,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  809717,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0018.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0018.jar",
                                                              "MD5":  "5e38debfa0b29738bcdeef2511dda84d",
                                                              "path":  "mods/balm-fabric-1.21.1-21.0.63.jar"
                                                          }
@@ -218,7 +218,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  837607,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0019.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0019.jar",
                                                              "MD5":  "eaf50ca33137846e0430aa8afc48a223",
                                                              "path":  "mods/beautify-2.0.0+1.21.1.jar"
                                                          }
@@ -229,7 +229,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  350293,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0020.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0020.jar",
                                                              "MD5":  "bb097232f80b5a070dec10e16af7b088",
                                                              "path":  "mods/better-pokedex-scanner-1.0.0.jar"
                                                          }
@@ -240,7 +240,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  39918,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0021.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0021.jar",
                                                              "MD5":  "cfecd69bea2c2df987327ee0b537486c",
                                                              "path":  "mods/betterbeds-fabric-1.4.0.jar"
                                                          }
@@ -251,7 +251,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  22834,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0022.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0022.jar",
                                                              "MD5":  "ca612bf34c9c8e18e14358823c63a0f3",
                                                              "path":  "mods/BetterF1-Fabric-1.1+1.21.7.jar"
                                                          }
@@ -262,7 +262,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1810710,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0023.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0023.jar",
                                                              "MD5":  "4f3a811be18c5c1cb64f39f3de6fb0bd",
                                                              "path":  "mods/BetterF3-11.0.3-Fabric-1.21.1.jar"
                                                          }
@@ -273,7 +273,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  52188,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0024.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0024.jar",
                                                              "MD5":  "32de4a8aff2d1706a69f44fd22acd78c",
                                                              "path":  "mods/BetterThirdPerson-Fabric-1.21-1.9.0.jar"
                                                          }
@@ -284,7 +284,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  138694,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0025.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0025.jar",
                                                              "MD5":  "d31a5b16f5ef5354b5b28dc736c6979d",
                                                              "path":  "mods/biomereplacer-2.1-hippo-fabric.jar"
                                                          }
@@ -295,7 +295,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1213168,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0026.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0026.jar",
                                                              "MD5":  "d718eff1a6a0f2f9b863f67082ec092e",
                                                              "path":  "mods/brb-1.10.0-rc5+1.21.jar"
                                                          }
@@ -306,7 +306,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  3810456,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0027.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0027.jar",
                                                              "MD5":  "d2a9e9d53617e503994fbf08515e673f",
                                                              "path":  "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.30.jar"
                                                          }
@@ -317,7 +317,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  22848,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0028.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0028.jar",
                                                              "MD5":  "e6fc02948bb7b46b6554bc6df987e6f2",
                                                              "path":  "mods/capturexp-fabric-1.7.3-1.3.0.jar"
                                                          }
@@ -328,7 +328,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2891665,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0029.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0029.jar",
                                                              "MD5":  "db596ba07c887eea948994cedf2504bd",
                                                              "path":  "mods/Carved Wood-fabric-1.21.1-1.9.7-B.jar"
                                                          }
@@ -339,7 +339,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  318477,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0030.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0030.jar",
                                                              "MD5":  "9dca57ba58776552413eb5bd6d3888c3",
                                                              "path":  "mods/catchindicator-fabric-1.7.0.jar"
                                                          }
@@ -350,7 +350,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  260470,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0031.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0031.jar",
                                                              "MD5":  "c179e5ff4c5fa735bbcedd0f4fadf2dd",
                                                              "path":  "mods/catchrate-display-fabric-2.8.22.jar"
                                                          }
@@ -361,7 +361,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1157166,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0032.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0032.jar",
                                                              "MD5":  "a2c091b027ad6ba8e54b07020fd45884",
                                                              "path":  "mods/cloth-config-15.0.140-fabric.jar"
                                                          }
@@ -372,20 +372,20 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  84047,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0033.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0033.jar",
                                                              "MD5":  "d51d01b93a9b024937ff3471e6367a01",
                                                              "path":  "mods/cobbleadmin-0.4.0.jar"
                                                          }
                                         },
                                         {
-                                            "id":  "cobblecompute-client-0.5.0-dev1.jar",
-                                            "name":  "cobblecompute-client-0.5.0-dev1.jar",
+                                            "id":  "cobblecompute-client-0.5.0-dev2.jar",
+                                            "name":  "cobblecompute-client-0.5.0-dev2.jar",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  56711,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0034.jar",
-                                                             "MD5":  "f40326df2a340daea044fcc8fb7127ff",
-                                                             "path":  "mods/cobblecompute-client-0.5.0-dev1.jar"
+                                                             "size":  56699,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0034.jar",
+                                                             "MD5":  "79cc7ed422d74ce78685560d209202c7",
+                                                             "path":  "mods/cobblecompute-client-0.5.0-dev2.jar"
                                                          }
                                         },
                                         {
@@ -394,7 +394,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  683115,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0035.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0035.jar",
                                                              "MD5":  "3d61b2fab71618ae9dabed911f2e0a63",
                                                              "path":  "mods/cobblecuisine-2.0.1-1.7-rc1.jar"
                                                          }
@@ -405,7 +405,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  15406,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0036.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0036.jar",
                                                              "MD5":  "bb8b1fa2e1bb1b274d922c74dae38817",
                                                              "path":  "mods/cobbledelivery-ui-0.1.4-unified-ui.jar"
                                                          }
@@ -416,7 +416,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  5042323,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0037.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0037.jar",
                                                              "MD5":  "7e22a45187a81bc23df8b7fbf647af08",
                                                              "path":  "mods/cobbledex-rei-emi-jei-fabric-2.0.4.jar"
                                                          }
@@ -427,7 +427,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  369528,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0038.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0038.jar",
                                                              "MD5":  "1c38ad40c554bd82109d778daa95ecfe",
                                                              "path":  "mods/CobbleDollars-fabric-2.0.0+Beta-5.1+1.21.1.jar"
                                                          }
@@ -438,7 +438,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2612128,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0039.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0039.jar",
                                                              "MD5":  "6682f73c52c5b0871cd0be87c1d4fffc",
                                                              "path":  "mods/cobbleeconomy-0.2.15.jar"
                                                          }
@@ -449,7 +449,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2337235,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0040.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0040.jar",
                                                              "MD5":  "a2a86b8aac2ebd5208dc92a561c5e113",
                                                              "path":  "mods/CobbleFurnies-fabric-1.2.jar"
                                                          }
@@ -460,7 +460,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  13991492,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0041.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0041.jar",
                                                              "MD5":  "4fd1d9c16bcfdaff3e4bd2c0c2fd3890",
                                                              "path":  "mods/cobblegacha-0.5.38-typography-cleanup.jar"
                                                          }
@@ -471,7 +471,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  19928,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0042.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0042.jar",
                                                              "MD5":  "3b29e419ca720fdfa14f6cc15e1dfbdc",
                                                              "path":  "mods/cobblegym-gym-victory-api-addon-0.3.7.jar"
                                                          }
@@ -482,7 +482,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  963158,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0043.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0043.jar",
                                                              "MD5":  "96345ca89ddd18b7556c140ecf8d52d4",
                                                              "path":  "mods/cobblegymmode-0.7.8-role-aware-minecraft-candidate.jar"
                                                          }
@@ -493,7 +493,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  974984,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0044.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0044.jar",
                                                              "MD5":  "417fc260ae71cb56e5399bdc80c3aa55",
                                                              "path":  "mods/cobblegymmode-0.7.8.2-stage-mixin-annotation-hotfix-CANDIDATE.jar"
                                                          }
@@ -504,7 +504,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  36886,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0045.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0045.jar",
                                                              "MD5":  "96d16ab23b77c8ba27c04546e4bf4662",
                                                              "path":  "mods/cobblelegend-0.3.0-hooh-npc-bridge.jar"
                                                          }
@@ -515,7 +515,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1961229,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0046.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0046.jar",
                                                              "MD5":  "73fd17cc59f38c1e03a1b2a37d7252af",
                                                              "path":  "mods/cobblemon-additions-4.1.6.jar"
                                                          }
@@ -526,7 +526,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  919007,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0047.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0047.jar",
                                                              "MD5":  "2c3c222a38702849f023432f1c6eb29b",
                                                              "path":  "mods/cobblemon-alphas-2.2.jar"
                                                          }
@@ -537,7 +537,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1515972,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0048.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0048.jar",
                                                              "MD5":  "dbf09923dc28a0339c5c5bb7eae9061d",
                                                              "path":  "mods/cobblemon-battle-extras-fabric-1.13.45.jar"
                                                          }
@@ -548,7 +548,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  58572,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0049.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0049.jar",
                                                              "MD5":  "875686694669573a33b75dc843c212ed",
                                                              "path":  "mods/cobblemon-battle-positions-1.1.3.jar"
                                                          }
@@ -559,7 +559,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  135801550,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0050.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0050.jar",
                                                              "MD5":  "1de64f280372ec94e4376976fb579d52",
                                                              "path":  "mods/Cobblemon-fabric-1.7.3+1.21.1.jar"
                                                          }
@@ -570,7 +570,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  95905,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0051.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0051.jar",
                                                              "MD5":  "85de5ef83ffa833a5cfd8fc9d0527478",
                                                              "path":  "mods/cobblemon-highlight-fabric-1.1.0.jar"
                                                          }
@@ -581,7 +581,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  54811,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0052.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0052.jar",
                                                              "MD5":  "80c9c791d259e018795a7acb48eeccaf",
                                                              "path":  "mods/cobblemonexpall-fabric-0.0.2.jar"
                                                          }
@@ -592,7 +592,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2690197,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0053.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0053.jar",
                                                              "MD5":  "30283db43eee22f57df10d52a39323e6",
                                                              "path":  "mods/cobblemonraiddens-fabric-0.11.3+1.21.1.jar"
                                                          }
@@ -603,7 +603,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  97158,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0054.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0054.jar",
                                                              "MD5":  "3f5c98d3a10f501cee9fc0f4921fe594",
                                                              "path":  "mods/CobblemonSizeVariationFabric-1.4.0+1.7.0.jar"
                                                          }
@@ -614,7 +614,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  52072791,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0055.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0055.jar",
                                                              "MD5":  "4e0bc0f3e9cf7fd320ba92232f7784cc",
                                                              "path":  "mods/cobblemon_battle_tower-fabric-1.11.23.jar"
                                                          }
@@ -625,7 +625,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  394695,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0056.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0056.jar",
                                                              "MD5":  "571c3f037ef46bae2c7aac177e06fe57",
                                                              "path":  "mods/cobblemon_party_extras-fabric-1.8.15.jar"
                                                          }
@@ -636,7 +636,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2968343,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0057.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0057.jar",
                                                              "MD5":  "7507f46fc0e55e805873caeb99e350cb",
                                                              "path":  "mods/cobblemon_spawn_alerts-fabric-1.13.2-ko_kr.jar"
                                                          }
@@ -647,7 +647,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1090821,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0058.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0058.jar",
                                                              "MD5":  "efbc5e5e05966cfd45f94ea0f8591cf2",
                                                              "path":  "mods/cobblenav-fabric-2.3.3.jar"
                                                          }
@@ -658,7 +658,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  55373,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0059.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0059.jar",
                                                              "MD5":  "fd321d647722f0f53a0943e17938cd00",
                                                              "path":  "mods/cobblepatent-0.1.6.jar"
                                                          }
@@ -669,7 +669,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  104300,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0060.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0060.jar",
                                                              "MD5":  "658a729a26ecfebf4cc0f13c4c04234a",
                                                              "path":  "mods/cobbleplots-0.4.4.jar"
                                                          }
@@ -680,7 +680,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  245157,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0061.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0061.jar",
                                                              "MD5":  "79b57f45eb3ee3e742c08106ff232a05",
                                                              "path":  "mods/cobblequest-0.2.3.jar"
                                                          }
@@ -691,7 +691,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  132707,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0062.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0062.jar",
                                                              "MD5":  "5671529a21e37f60a1b1fa3b761a6ae2",
                                                              "path":  "mods/cobblestock-0.1.19-remove-ma5-ma20.jar"
                                                          }
@@ -702,7 +702,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  23468,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0063.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0063.jar",
                                                              "MD5":  "db920185ae6d761a8b632ee6033c1a5b",
                                                              "path":  "mods/cobbletower-0.1.0.jar"
                                                          }
@@ -713,7 +713,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  137015,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0064.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0064.jar",
                                                              "MD5":  "079f81e2f318e82c57c5dd87431d283c",
                                                              "path":  "mods/CobbleverseBadges-1.3.jar"
                                                          }
@@ -724,7 +724,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  261,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0065.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0065.jar",
                                                              "MD5":  "f43436d6bec321290f6af228ad602604",
                                                              "path":  "mods/cobblewild-0.1.0.jar"
                                                          }
@@ -735,7 +735,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  475560,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0066.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0066.jar",
                                                              "MD5":  "c8b8d36e66af37edf4711632bb82da36",
                                                              "path":  "mods/Cobbreeding-fabric-2.2.2.jar"
                                                          }
@@ -746,7 +746,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  914494,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0067.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0067.jar",
                                                              "MD5":  "609e01638d5b6f2d864ee299e524395d",
                                                              "path":  "mods/comforts-fabric-9.0.5+1.21.1.jar"
                                                          }
@@ -757,7 +757,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  545247,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0068.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0068.jar",
                                                              "MD5":  "c82791281f26785531f82c0913967b58",
                                                              "path":  "mods/configurable-3.5.2+1.21.1-fabric.jar"
                                                          }
@@ -768,7 +768,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1014044,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0069.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0069.jar",
                                                              "MD5":  "daee3841730e2576a621943f289deadb",
                                                              "path":  "mods/continuity-3.0.0+1.21.jar"
                                                          }
@@ -779,7 +779,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  83679,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0070.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0070.jar",
                                                              "MD5":  "5660c1ed5fee202ca5ca9a617a4202b4",
                                                              "path":  "mods/Controlling-fabric-1.21.1-19.0.5.jar"
                                                          }
@@ -790,7 +790,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  660554,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0071.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0071.jar",
                                                              "MD5":  "c05035d6d151259def5174d9713f8b68",
                                                              "path":  "mods/customsplashscreen-2.2.0.jar"
                                                          }
@@ -801,7 +801,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  292202,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0072.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0072.jar",
                                                              "MD5":  "604cf2f99be0b208a3354783f5b56fa2",
                                                              "path":  "mods/Debugify-1.21.1+1.0.jar"
                                                          }
@@ -812,7 +812,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  105044,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0073.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0073.jar",
                                                              "MD5":  "e9741ff659f52cc54ab46468b8a73aea",
                                                              "path":  "mods/defaultoptions-fabric-1.21.1-21.1.7.jar"
                                                          }
@@ -823,7 +823,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2004654,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0074.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0074.jar",
                                                              "MD5":  "caf6b11bb87ac9793d7eaa88a5966de7",
                                                              "path":  "mods/emberstextapi-fabric-1.21.1-3.0.3.jar"
                                                          }
@@ -834,7 +834,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1595131,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0075.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0075.jar",
                                                              "MD5":  "833cb8fd661a52acf63856d22e45f832",
                                                              "path":  "mods/entityculling-fabric-1.10.5-mc1.21.1.jar"
                                                          }
@@ -845,7 +845,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  565280,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0076.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0076.jar",
                                                              "MD5":  "91f3be98f2f2cd76d3ad68525f76ff79",
                                                              "path":  "mods/entity_model_features-3.2.4-1.21-fabric.jar"
                                                          }
@@ -856,7 +856,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  745421,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0077.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0077.jar",
                                                              "MD5":  "ae33b3cdbe2d7b431e5d36c41efb34c9",
                                                              "path":  "mods/entity_texture_features_1.21-fabric-7.1.jar"
                                                          }
@@ -867,7 +867,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  4296552,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0078.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0078.jar",
                                                              "MD5":  "bd6182ebf047a29ebff32ce185c9bb18",
                                                              "path":  "mods/EuphoriaPatcher-1.9.3-r5.8.1-fabric.jar"
                                                          }
@@ -878,7 +878,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2451978,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0079.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0079.jar",
                                                              "MD5":  "777f1430b4d18ed9d7f4ad18ed0c0012",
                                                              "path":  "mods/fabric-api-0.116.14+1.21.1.jar"
                                                          }
@@ -889,7 +889,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  8076363,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0080.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0080.jar",
                                                              "MD5":  "b70470268be8c74a10e10b24a2bf7df6",
                                                              "path":  "mods/fabric-language-kotlin-1.13.13+kotlin.2.4.10.jar"
                                                          }
@@ -900,7 +900,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  123450,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0081.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0081.jar",
                                                              "MD5":  "b8513c8c3eef01ea1117ed8d8cba060d",
                                                              "path":  "mods/ferritecore-7.0.3-fabric.jar"
                                                          }
@@ -911,7 +911,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1424525,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0082.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0082.jar",
                                                              "MD5":  "8dc714c8c95f504a3c2176834288a979",
                                                              "path":  "mods/fightorflight-fabric-0.10.9.jar"
                                                          }
@@ -922,7 +922,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  633065,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0083.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0083.jar",
                                                              "MD5":  "eba1a7f9d9976e983a2b9eb5e915e087",
                                                              "path":  "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar"
                                                          }
@@ -933,7 +933,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  78531,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0084.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0084.jar",
                                                              "MD5":  "9dc0b31677ab477d8832d9ab5aface60",
                                                              "path":  "mods/forgivingvoid-fabric-1.21.1-21.1.7.jar"
                                                          }
@@ -944,7 +944,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  515411,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0085.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0085.jar",
                                                              "MD5":  "2220961413c51080d4ce12c0fb5f958d",
                                                              "path":  "mods/fusion-1.2.12-fabric-mc1.21.jar"
                                                          }
@@ -955,7 +955,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2365335,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0086.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0086.jar",
                                                              "MD5":  "dcedb9014b228c01941b2ef4f2743f19",
                                                              "path":  "mods/fzzy_config-0.7.6+1.21.jar"
                                                          }
@@ -966,7 +966,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  660416,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0087.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0087.jar",
                                                              "MD5":  "fe791e7b10c8b7c736ea3e57747eac09",
                                                              "path":  "mods/geckolib-fabric-1.21.1-4.9.2.jar"
                                                          }
@@ -977,7 +977,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  394707,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0088.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0088.jar",
                                                              "MD5":  "30850a43a7a21b109ed7ab19decf247d",
                                                              "path":  "mods/globalpacks-fabric-1.21.1-21.0.6.jar"
                                                          }
@@ -988,7 +988,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1118197,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0089.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0089.jar",
                                                              "MD5":  "cef64d3a2bf62b53c5249f0332945241",
                                                              "path":  "mods/grand-teleport-1.21.1-build252.jar"
                                                          }
@@ -999,7 +999,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  7127377,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0090.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0090.jar",
                                                              "MD5":  "4ae4f2fe6a71eaeeade3ce0eb1db7997",
                                                              "path":  "mods/handcrafted-fabric-1.21.1-4.0.3.jar"
                                                          }
@@ -1010,7 +1010,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  457352,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0091.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0091.jar",
                                                              "MD5":  "234ee14bc223ae7594b41e16c7357518",
                                                              "path":  "mods/highlight-fabric-1.21-3.0.0.jar"
                                                          }
@@ -1021,7 +1021,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  100230,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0092.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0092.jar",
                                                              "MD5":  "3d2c52db7fb380822586b6d42ecde976",
                                                              "path":  "mods/huge-structure-blocks-fabric-1.1.6.jar"
                                                          }
@@ -1032,7 +1032,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  413302,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0093.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0093.jar",
                                                              "MD5":  "fe26852d922aa24dad9c81270a09f929",
                                                              "path":  "mods/Iceberg-1.21.1-fabric-1.3.2.jar"
                                                          }
@@ -1043,7 +1043,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  336763,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0094.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0094.jar",
                                                              "MD5":  "ff2f33b4f400d9ccf3bc6e160246b101",
                                                              "path":  "mods/ImmediatelyFast-Fabric-1.6.11+1.21.1.jar"
                                                          }
@@ -1054,7 +1054,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  45913,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0095.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0095.jar",
                                                              "MD5":  "c5e39b215131bf34675e19dfc89daac0",
                                                              "path":  "mods/infinite-music-0.4.6.jar"
                                                          }
@@ -1065,7 +1065,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  118011,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0096.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0096.jar",
                                                              "MD5":  "08efa54362ed6b49f37e4fea9788dd36",
                                                              "path":  "mods/interactic-0.2.3+1.21.jar"
                                                          }
@@ -1076,7 +1076,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2791343,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0097.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0097.jar",
                                                              "MD5":  "4399f0c3edfe2af7f61db3725fe5c751",
                                                              "path":  "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar"
                                                          }
@@ -1087,7 +1087,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  786695,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0098.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0098.jar",
                                                              "MD5":  "287ee9cfc6015f706672fd8c20f5ef9c",
                                                              "path":  "mods/konkrete_fabric_1.9.9_MC_1.21.jar"
                                                          }
@@ -1098,7 +1098,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  161045,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0099.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0099.jar",
                                                              "MD5":  "9ba3d734dac0e59deb4721f2f23c65ad",
                                                              "path":  "mods/krypton-0.2.8.jar"
                                                          }
@@ -1109,7 +1109,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  5736792,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0100.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0100.jar",
                                                              "MD5":  "7c9ecce22a99dbaebef513a78384309a",
                                                              "path":  "mods/LegendaryMonuments-Cobbleverse.jar"
                                                          }
@@ -1120,7 +1120,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  920915,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0101.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0101.jar",
                                                              "MD5":  "3d93c1e47b380a4b7eff0342d56c0258",
                                                              "path":  "mods/lenientdeath-1.2.5+1.21.1.jar"
                                                          }
@@ -1131,7 +1131,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1283376,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0102.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0102.jar",
                                                              "MD5":  "3f4c4677e93c4a6701d085bedd125f7c",
                                                              "path":  "mods/libjf-3.17.3.jar"
                                                          }
@@ -1142,7 +1142,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  797454,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0103.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0103.jar",
                                                              "MD5":  "6fd6783640f42130f041b50cca2d3be6",
                                                              "path":  "mods/lithium-fabric-0.15.4+mc1.21.1.jar"
                                                          }
@@ -1153,7 +1153,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  3121070,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0104.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0104.jar",
                                                              "MD5":  "c432cd0ce7f8dc715acd559d44d524cf",
                                                              "path":  "mods/Luckys-Cozyhome-Refurnished-1.1.20.jar"
                                                          }
@@ -1164,7 +1164,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2331858,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0105.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0105.jar",
                                                              "MD5":  "a1f52c03995e41f08b9e4db17fedf1e8",
                                                              "path":  "mods/LumyMon-0.6.6.jar"
                                                          }
@@ -1175,7 +1175,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  66283,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0106.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0106.jar",
                                                              "MD5":  "f35e2c7a5303afc7299e551f4b7aeb2d",
                                                              "path":  "mods/LumyREI-1.1.3.jar"
                                                          }
@@ -1186,7 +1186,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  17213370,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0107.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0107.jar",
                                                              "MD5":  "0e3197dd14c98ce0240d498114cfe143",
                                                              "path":  "mods/mega_showdown-fabric-1.8.4+1.7.3+1.21.1.jar"
                                                          }
@@ -1197,7 +1197,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  188035,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0108.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0108.jar",
                                                              "MD5":  "0f1bfbf2dd4fa047a1616fc448f3b856",
                                                              "path":  "mods/melody_fabric_1.0.10_MC_1.21.jar"
                                                          }
@@ -1208,7 +1208,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  62853,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0109.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0109.jar",
                                                              "MD5":  "5134d5bc38b64b8cd8d22f78b8a6a296",
                                                              "path":  "mods/midnightlib-1.7.5-fabric+1.21.1.jar"
                                                          }
@@ -1219,7 +1219,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  777538,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0110.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0110.jar",
                                                              "MD5":  "15e0f4f9c262a21499792bbf63601b15",
                                                              "path":  "mods/moar-concrete-1.3.1.jar"
                                                          }
@@ -1230,7 +1230,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  9837,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0111.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0111.jar",
                                                              "MD5":  "5995db9172923b0476e76e5f8356e6e1",
                                                              "path":  "mods/MobsBeGone-0.0.7.jar"
                                                          }
@@ -1241,7 +1241,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  471258,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0112.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0112.jar",
                                                              "MD5":  "17260c894041b7b4a1b1f2fd1a8f1a8b",
                                                              "path":  "mods/modernfix-fabric-5.25.1+mc1.21.1.jar"
                                                          }
@@ -1252,7 +1252,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  973059,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0113.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0113.jar",
                                                              "MD5":  "b2b9c53a887c100f780708c4f36db6c4",
                                                              "path":  "mods/modmenu-11.0.4.jar"
                                                          }
@@ -1263,7 +1263,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  137626,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0114.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0114.jar",
                                                              "MD5":  "8c9e870b8dc446ffdc98d106f65da075",
                                                              "path":  "mods/MoreCobblemonTweaks-fabric-1.3.3.jar"
                                                          }
@@ -1274,7 +1274,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  332100,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0115.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0115.jar",
                                                              "MD5":  "6aedbcb1811e58e1b357e9a9d98c1eae",
                                                              "path":  "mods/moreculling-fabric-1.21.1-1.0.8.jar"
                                                          }
@@ -1285,7 +1285,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  75984,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0116.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0116.jar",
                                                              "MD5":  "1d39ead1641ef522bc7ae92383f21da8",
                                                              "path":  "mods/MouseTweaks-fabric-mc1.21-2.26.jar"
                                                          }
@@ -1296,7 +1296,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  139713,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0117.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0117.jar",
                                                              "MD5":  "b532a1d0bf3a3dfc405a072104c6b46c",
                                                              "path":  "mods/musicnotification-fabric-3.0.0+mc1.21.1.jar"
                                                          }
@@ -1307,7 +1307,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  860092,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0118.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0118.jar",
                                                              "MD5":  "db817a6db200bafb884e87899d4dfb74",
                                                              "path":  "mods/neruina-3.3.3+1.21.1-fabric.jar"
                                                          }
@@ -1318,7 +1318,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  21464,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0119.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0119.jar",
                                                              "MD5":  "97c2cba4be2111c6c964b9f3eb1ccc3c",
                                                              "path":  "mods/nethermap-4.0.0-1.21.1.jar"
                                                          }
@@ -1329,7 +1329,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  213294,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0120.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0120.jar",
                                                              "MD5":  "b9a0a822741aafe118ce9f883f8e86c4",
                                                              "path":  "mods/netherportalfix-fabric-1.21.1-21.1.3.jar"
                                                          }
@@ -1340,7 +1340,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  9907,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0121.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0121.jar",
                                                              "MD5":  "e00f093d0e9e903b3ed0d1784315d88d",
                                                              "path":  "mods/NoChatRestrictions-Fabric-MC1.21.11-v1.0.0.jar"
                                                          }
@@ -1351,7 +1351,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1948132,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0122.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0122.jar",
                                                              "MD5":  "6afb17a78bec2140a3904dcd6d1a3d92",
                                                              "path":  "mods/notenoughanimations-fabric-1.12.4-mc1.21.1.jar"
                                                          }
@@ -1362,7 +1362,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  601087,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0123.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0123.jar",
                                                              "MD5":  "635fe76b795c2d91f9a6c4bc436e5266",
                                                              "path":  "mods/notenoughcrashes-fabric-4.4.9+1.21.1.jar"
                                                          }
@@ -1373,7 +1373,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  250451,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0124.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0124.jar",
                                                              "MD5":  "2380d10d347cf1c18dfdf9eec429f599",
                                                              "path":  "mods/Only Bottle Caps-1.3.0.jar"
                                                          }
@@ -1384,7 +1384,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1183559,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0125.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0125.jar",
                                                              "MD5":  "3627aee17111e12a8c66928f5d7a3fba",
                                                              "path":  "mods/owo-lib-0.12.15.4+1.21.jar"
                                                          }
@@ -1395,7 +1395,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  46623,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0126.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0126.jar",
                                                              "MD5":  "8f22fb065079340a72ae5ce0da12efcb",
                                                              "path":  "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
                                                          }
@@ -1406,7 +1406,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  71859,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0127.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0127.jar",
                                                              "MD5":  "98972ac66573f39aff66cc2a396ef916",
                                                              "path":  "mods/paginatedadvancements-2.5.1.jar"
                                                          }
@@ -1417,7 +1417,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  608651,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0128.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0128.jar",
                                                              "MD5":  "d756346fdf583d11436a40aad0993d68",
                                                              "path":  "mods/particlerain-4.0.0-beta.10+1.21.1-fabric.jar"
                                                          }
@@ -1428,7 +1428,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  147812,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0129.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0129.jar",
                                                              "MD5":  "0900279584f271fc4647e575883850ae",
                                                              "path":  "mods/particle_core-0.3.3+1.21.jar"
                                                          }
@@ -1439,7 +1439,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  285813,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0130.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0130.jar",
                                                              "MD5":  "d044b84c34a12bb2f7db88c81ee3902a",
                                                              "path":  "mods/particular-1.21.1-Fabric-1.5.5.jar"
                                                          }
@@ -1450,7 +1450,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  45871,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0131.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0131.jar",
                                                              "MD5":  "ef3ebf8d082e4af1fb6f54524e8c1f70",
                                                              "path":  "mods/pastureLoot-1.0.5+1.21.1.jar"
                                                          }
@@ -1461,7 +1461,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  152703,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0132.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0132.jar",
                                                              "MD5":  "d0da2169a144c577794d38a03927f28e",
                                                              "path":  "mods/Ping-Wheel-1.12.2-fabric-1.21.1.jar"
                                                          }
@@ -1472,7 +1472,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  735744,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0133.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0133.jar",
                                                              "MD5":  "c5023c794d97255c94493ad53780dcdb",
                                                              "path":  "mods/Platform-fabric-1.21.1-1.3.3.jar"
                                                          }
@@ -1483,7 +1483,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  10818,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0134.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0134.jar",
                                                              "MD5":  "678d412cb49d046d3597ae1c26cb8baa",
                                                              "path":  "mods/playerxp-fabric-1.0.9+1.21.1.jar"
                                                          }
@@ -1494,7 +1494,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1606467,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0135.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0135.jar",
                                                              "MD5":  "a576344a9af471b67b47437adcdd2a63",
                                                              "path":  "mods/pokeblocks-1.4.0-1.21.1.jar"
                                                          }
@@ -1505,7 +1505,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  3609653,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0136.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0136.jar",
                                                              "MD5":  "17a78a5114c9369b9c0f916ea5c6deb6",
                                                              "path":  "mods/pyeongnudo-gym-unified-addon-0.3.6-badge-render-fix.jar"
                                                          }
@@ -1516,7 +1516,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  3604988,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0137.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0137.jar",
                                                              "MD5":  "c4bfb631574fa0e73e938098f184fef9",
                                                              "path":  "mods/PyeongnudoBadges-0.1.5-silhouette-fix.jar"
                                                          }
@@ -1527,7 +1527,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  8240,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0138.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0138.jar",
                                                              "MD5":  "0670e6bc8addce01fbebb3ef5943d441",
                                                              "path":  "mods/Pyeongnudo_EliteFour_Runtime_0.1.2-CANDIDATE.jar"
                                                          }
@@ -1538,7 +1538,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  234250,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0139.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0139.jar",
                                                              "MD5":  "fe02b1985ce18f764f41d8e802d38035",
                                                              "path":  "mods/rctapi-fabric-1.21.1-0.15.2-beta.jar"
                                                          }
@@ -1549,7 +1549,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  6757956,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0140.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0140.jar",
                                                              "MD5":  "25c546e42d63947ac2ecdcd12823cc42",
                                                              "path":  "mods/rctmod-fabric-1.21.1-0.18.1-beta.jar"
                                                          }
@@ -1560,7 +1560,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  11913849,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0141.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0141.jar",
                                                              "MD5":  "ed15b2605a5e08998aad62a371b64a2a",
                                                              "path":  "mods/rechiseled-1.2.4-fabric-mc1.21.jar"
                                                          }
@@ -1571,7 +1571,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  259211,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0142.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0142.jar",
                                                              "MD5":  "bb87d3438852737e636bf6b3f1f027d5",
                                                              "path":  "mods/reeses-sodium-options-fabric-2.2.3+mc1.21.1.jar"
                                                          }
@@ -1582,7 +1582,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  8202318,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0143.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0143.jar",
                                                              "MD5":  "deb4b37a167bf3eedd2345573c832936",
                                                              "path":  "mods/repurposed_structures-7.5.21+1.21.1-fabric.jar"
                                                          }
@@ -1593,7 +1593,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  485586,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0144.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0144.jar",
                                                              "MD5":  "89dac4248b76747800fbc00fa063825e",
                                                              "path":  "mods/resourcefullib-fabric-1.21-3.0.12.jar"
                                                          }
@@ -1604,7 +1604,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  80827,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0145.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0145.jar",
                                                              "MD5":  "a4a05891e061eba03472755073777d8c",
                                                              "path":  "mods/ResourcePackOverrides-v21.1.0-1.21.1-Fabric.jar"
                                                          }
@@ -1615,7 +1615,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  530926,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0146.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0146.jar",
                                                              "MD5":  "c368111712351fefa2abe462fae47cc6",
                                                              "path":  "mods/respackopts-4.11.3.jar"
                                                          }
@@ -1626,7 +1626,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2451799,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0147.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0147.jar",
                                                              "MD5":  "8a011fbf376cc4350743274bfd16d3cf",
                                                              "path":  "mods/RoughlyEnoughItems-16.0.799-fabric.jar"
                                                          }
@@ -1637,7 +1637,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  16518,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0148.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0148.jar",
                                                              "MD5":  "af5597adebbfad7f73c01e118d93bf97",
                                                              "path":  "mods/SafePastures-1.1.1+1.21.1.jar"
                                                          }
@@ -1648,7 +1648,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  177266,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0149.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0149.jar",
                                                              "MD5":  "34cb60a3db0f2439db221bc3325c1411",
                                                              "path":  "mods/ScalableLux-0.1.0.1+fabric.d0d58ab-all.jar"
                                                          }
@@ -1659,7 +1659,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  79531,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0150.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0150.jar",
                                                              "MD5":  "33d8f858261d757ef89144ac13013987",
                                                              "path":  "mods/Searchables-fabric-1.21.1-1.0.2.jar"
                                                          }
@@ -1670,7 +1670,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1573180,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0151.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0151.jar",
                                                              "MD5":  "4ee4e9d6d047e0bbefaf45deca603fa6",
                                                              "path":  "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
                                                          }
@@ -1681,7 +1681,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  988478,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0152.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0152.jar",
                                                              "MD5":  "642d3aaa4161a9df7b709a6b7f378f17",
                                                              "path":  "mods/sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar"
                                                          }
@@ -1692,7 +1692,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2996065,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0153.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0153.jar",
                                                              "MD5":  "44bf607ca1a8bfb7410514db85ac9c28",
                                                              "path":  "mods/sophisticatedcore-1.21.1-1.2.9.21.168.jar"
                                                          }
@@ -1703,7 +1703,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1670672,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0154.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0154.jar",
                                                              "MD5":  "3e02634de2d379bf58b58bb14c2e5481",
                                                              "path":  "mods/sophisticatedstorage-1.21.1-1.3.7.9.139.jar"
                                                          }
@@ -1714,7 +1714,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  205671,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0155.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0155.jar",
                                                              "MD5":  "ca55ac70824e229cd1175238b50608a6",
                                                              "path":  "mods/sound-physics-remastered-fabric-1.21.1-1.5.1.jar"
                                                          }
@@ -1725,7 +1725,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  6151935,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0156.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0156.jar",
                                                              "MD5":  "393098afb33296c2d9f2f56e53c9c4ec",
                                                              "path":  "mods/soundsbegone-fabric-1.5.2+mc1.21.jar"
                                                          }
@@ -1736,7 +1736,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  3609981,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0157.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0157.jar",
                                                              "MD5":  "7c8aa4055fff1aa75a43d26a0afd9e5c",
                                                              "path":  "mods/spark-1.10.109-fabric.jar"
                                                          }
@@ -1747,7 +1747,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  321213,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0158.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0158.jar",
                                                              "MD5":  "8dbb0c4c8c1c9f00faeb68fa74ee6d27",
                                                              "path":  "mods/StackDeobfuscatorFabric-1.4.3+08e71cc.jar"
                                                          }
@@ -1758,7 +1758,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  206993,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0159.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0159.jar",
                                                              "MD5":  "fff83455887d85c6f7ebac7bba24fa8f",
                                                              "path":  "mods/supermartijn642configlib-1.1.8-fabric-mc1.21.jar"
                                                          }
@@ -1769,7 +1769,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  616830,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0160.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0160.jar",
                                                              "MD5":  "3da1b1056bb9b19eee8957a537e6c5e0",
                                                              "path":  "mods/supermartijn642corelib-1.1.21-fabric-mc1.21.jar"
                                                          }
@@ -1780,7 +1780,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  3115385,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0161.disabled",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0161.disabled",
                                                              "MD5":  "93dd6c7f8824e531fedaf37fd23f5c99",
                                                              "path":  "mods/Terralith_1.21.x_v2.5.8.jar.disabled"
                                                          }
@@ -1791,7 +1791,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  304444,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0162.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0162.jar",
                                                              "MD5":  "f206df5480d269c0c0fe27846acb1d89",
                                                              "path":  "mods/timcore-fabric-1.7.3-1.32.0.jar"
                                                          }
@@ -1802,7 +1802,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  3360417,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0163.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0163.jar",
                                                              "MD5":  "3bb04243884b305b228de0ed352ae89a",
                                                              "path":  "mods/tmcraft-1.4.18+1.7.3.jar"
                                                          }
@@ -1813,7 +1813,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1962781,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0164.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0164.jar",
                                                              "MD5":  "46341f7e08a115bcc3b5b114dff671fb",
                                                              "path":  "mods/toms_storage_fabric-1.21-2.3.0.jar"
                                                          }
@@ -1824,7 +1824,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  12432,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0165.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0165.jar",
                                                              "MD5":  "492430f451d89f7fe2d7b8410c9748ac",
                                                              "path":  "mods/tooltipfix-1.1.1-1.20.jar"
                                                          }
@@ -1835,7 +1835,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  272944,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0166.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0166.jar",
                                                              "MD5":  "4a42e243d6d5c25dea83be3ddc0b28b1",
                                                              "path":  "mods/trinkets-3.10.0.jar"
                                                          }
@@ -1846,7 +1846,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  54994072,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0167.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0167.jar",
                                                              "MD5":  "45d17963d8b43aa00251e422861b86e3",
                                                              "path":  "mods/VanillaBackport-fabric-1.21.1-1.1.7.10.jar"
                                                          }
@@ -1857,7 +1857,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  355303,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0168.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0168.jar",
                                                              "MD5":  "8e0bad0a69dbdd8abb8755c7bfc0e989",
                                                              "path":  "mods/villagerconfig-fabric-4.5.4+1.21.1.jar"
                                                          }
@@ -1868,7 +1868,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1226801,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0169.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0169.jar",
                                                              "MD5":  "251062ba3e8f093538e396cb2b93d05a",
                                                              "path":  "mods/waystones-fabric-1.21.1-21.1.37.jar"
                                                          }
@@ -1879,7 +1879,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  253029,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0170.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0170.jar",
                                                              "MD5":  "aed18468d95d4a4e87c195748102583f",
                                                              "path":  "mods/wild_battle_api-fabric-1.1.2.jar"
                                                          }
@@ -1890,7 +1890,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  6222854,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0171.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0171.jar",
                                                              "MD5":  "f5d6f09ca5c4b1958780d01a099b779d",
                                                              "path":  "mods/worldedit-mod-7.3.8.jar"
                                                          }
@@ -1901,7 +1901,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2233608,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0172.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0172.jar",
                                                              "MD5":  "c5dc72b99f6bca09e42e5786da1c9b97",
                                                              "path":  "mods/xaerominimap-fabric-1.21.1-26.4.2.jar"
                                                          }
@@ -1912,7 +1912,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1448218,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0173.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0173.jar",
                                                              "MD5":  "779cde2dce63cf90d6b318933c2d1080",
                                                              "path":  "mods/xaeroworldmap-fabric-1.21.1-1.44.2.jar"
                                                          }
@@ -1923,7 +1923,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1131265,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0174.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0174.jar",
                                                              "MD5":  "aadf11f5a793296be7c195e1ca388492",
                                                              "path":  "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar"
                                                          }
@@ -1934,7 +1934,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2387420,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0175.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0175.jar",
                                                              "MD5":  "42019a1020a2c9ffccf529a42c968a16",
                                                              "path":  "mods/zamega-fabric-1.7.3.jar"
                                                          }
@@ -1945,7 +1945,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  38857,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0176.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0176.jar",
                                                              "MD5":  "cc5d3de4adb10db5af20db16ea9b6fe1",
                                                              "path":  "mods/zfastnoise-1.0.13+1.21.jar"
                                                          }
@@ -1956,7 +1956,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  872937,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0177.jar",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0177.jar",
                                                              "MD5":  "e3beea86fba08bffe61ccad28df6c676",
                                                              "path":  "mods/zoomify-2.15.2+1.21.1.jar"
                                                          }
@@ -1967,7 +1967,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  321871,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0178.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0178.zip",
                                                              "MD5":  "9425263fea042911f13a1482f4c3f436",
                                                              "path":  "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip"
                                                          }
@@ -1978,7 +1978,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  167546,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0179.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0179.zip",
                                                              "MD5":  "3f9942822210093cd9bed79ce3ae8a0c",
                                                              "path":  "resourcepacks/Cobblemon 3D Poké Rods 1.0.zip"
                                                          }
@@ -1989,7 +1989,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  7538,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0180.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0180.zip",
                                                              "MD5":  "b3e28f8fb151f09ca368e66960758b4d",
                                                              "path":  "resourcepacks/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip"
                                                          }
@@ -2000,7 +2000,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1053517,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0181.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0181.zip",
                                                              "MD5":  "4f305a75335c85bbc1c0cb789a6e14e2",
                                                              "path":  "resourcepacks/Cobblemon Interface Modded v1.9.4.zip"
                                                          }
@@ -2011,7 +2011,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0182.rpo",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0182.rpo",
                                                              "MD5":  "99914b932bd37a50b983c5e7c90ae93b",
                                                              "path":  "resourcepacks/Cobblemon Interface Modded v1.9.4.zip.rpo"
                                                          }
@@ -2022,7 +2022,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  14108266,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0183.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0183.zip",
                                                              "MD5":  "03cacbf0b647173ae6707cc74c10866c",
                                                              "path":  "resourcepacks/Cobblemon Interface v1.6.0.zip"
                                                          }
@@ -2033,7 +2033,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  75,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0184.rpo",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0184.rpo",
                                                              "MD5":  "7953ffdc30d76df30535bc9b3b00ecdf",
                                                              "path":  "resourcepacks/Cobblemon Interface v1.6.0.zip.rpo"
                                                          }
@@ -2044,7 +2044,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  53510,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0185.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0185.zip",
                                                              "MD5":  "c554fdb88d972f4e8ec1fffab816276a",
                                                              "path":  "resourcepacks/Cobblemon_Trainer_Pyeongnudo_8Gyms_Skins_v2.zip"
                                                          }
@@ -2055,7 +2055,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  452094,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0186.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0186.zip",
                                                              "MD5":  "cbc4959ccf7641c507d75b02fc4b11e0",
                                                              "path":  "resourcepacks/COBBLEVERSE - Pokemon Adventure [Cobblemon]-1.7.41-CF-ko_kr-resource_pack.zip"
                                                          }
@@ -2066,7 +2066,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  5214902,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0187.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0187.zip",
                                                              "MD5":  "96dfa574c7696bf14d84aaf7fa63dcba",
                                                              "path":  "resourcepacks/COBBLEVERSE RCTmod RP.zip"
                                                          }
@@ -2077,7 +2077,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2025635,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0188.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0188.zip",
                                                              "MD5":  "bec44912725b3311c2ab9e667ad79a2e",
                                                              "path":  "resourcepacks/COBBLEVERSE RP [CF].zip"
                                                          }
@@ -2088,7 +2088,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  179498515,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0189.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0189.zip",
                                                              "MD5":  "dd28c4a199323ec97bf589dd7386bd77",
                                                              "path":  "resourcepacks/COBBLEVERSE Soundtrack.zip"
                                                          }
@@ -2099,7 +2099,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  8536643,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0190.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0190.zip",
                                                              "MD5":  "d25507c6e6f8a7181be46c3cd72d8c88",
                                                              "path":  "resourcepacks/COBBLEVERSE-CCC.zip"
                                                          }
@@ -2110,7 +2110,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  72956,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0191.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0191.zip",
                                                              "MD5":  "a47986ab87271f68e7f6e2b57fbb2d77",
                                                              "path":  "resourcepacks/Comforts Modernized - V1.1.zip"
                                                          }
@@ -2121,7 +2121,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  35530,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0192.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0192.zip",
                                                              "MD5":  "c991cb5e13b53b59258dbc501cdf95f4",
                                                              "path":  "resourcepacks/CurseForge RP.zip"
                                                          }
@@ -2132,7 +2132,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  19398814,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0193.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0193.zip",
                                                              "MD5":  "790d4b235650a8c637cd59dea859a273",
                                                              "path":  "resourcepacks/E19 Cobblemon Minimap Icons.zip"
                                                          }
@@ -2143,7 +2143,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  850941,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0194.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0194.zip",
                                                              "MD5":  "ab0e8cc3444e98f0fd51ac0d84533d52",
                                                              "path":  "resourcepacks/FreshAnimations_v1.10.4.zip"
                                                          }
@@ -2154,7 +2154,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  202557,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0195.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0195.zip",
                                                              "MD5":  "2928dd365959b146c37cdd5948c143d5",
                                                              "path":  "resourcepacks/Fully Hisuian Starters 1.1.1.zip"
                                                          }
@@ -2165,7 +2165,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  852471,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0196.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0196.zip",
                                                              "MD5":  "8ecfd25956194f46194c2129f45dbcb2",
                                                              "path":  "resourcepacks/Icon Fresh 0.4.zip"
                                                          }
@@ -2176,7 +2176,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1721,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0197.txt",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0197.txt",
                                                              "MD5":  "6faa4fa36999da9d7750c5002665bc5a",
                                                              "path":  "shaderpacks/COBBLEVERSE - Shaders (High Quality).txt"
                                                          }
@@ -2187,7 +2187,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2160731,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0198.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0198.zip",
                                                              "MD5":  "4c46593101a5ffd93d0641e09607e05e",
                                                              "path":  "shaderpacks/COBBLEVERSE - Shaders (High Quality).zip"
                                                          }
@@ -2198,7 +2198,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  1675,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0199.txt",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0199.txt",
                                                              "MD5":  "10a3f6614ec0de9bc0753baaef100051",
                                                              "path":  "shaderpacks/COBBLEVERSE - Shaders.txt"
                                                          }
@@ -2209,7 +2209,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  2141021,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0200.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0200.zip",
                                                              "MD5":  "41f7f6e0f6dc8a7ef02fa1211cc4e54b",
                                                              "path":  "shaderpacks/COBBLEVERSE - Shaders.zip"
                                                          }
@@ -2220,7 +2220,7 @@
                                             "type":  "File",
                                             "artifact":  {
                                                              "size":  546928,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.5/asset-0201.zip",
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.6/asset-0201.zip",
                                                              "MD5":  "0a3553109dbe689a9f76d1aedc8f50c6",
                                                              "path":  "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
                                                          }
