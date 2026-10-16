@@ -378,14 +378,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "cobblecompute-client-0.4.0-dev1.jar",
-                                            "name":  "cobblecompute-client-0.4.0-dev1.jar",
+                                            "id":  "cobblecompute-client-0.4.0-dev2.jar",
+                                            "name":  "cobblecompute-client-0.4.0-dev2.jar",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  56718,
+                                                             "size":  56717,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.2/asset-0034.jar",
-                                                             "MD5":  "0c9ea2114e14f7492b5a2870ab203bcd",
-                                                             "path":  "mods/cobblecompute-client-0.4.0-dev1.jar"
+                                                             "MD5":  "a349957f7c336c8c857b6d15045238ce",
+                                                             "path":  "mods/cobblecompute-client-0.4.0-dev2.jar"
                                                          }
                                         },
                                         {
