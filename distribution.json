@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.13",
+                        "version":  "0.1.14",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1361,6 +1361,16 @@
                                                              "size":  11056,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.12/asset-0004.jar",
                                                              "MD5":  "95d1030f7267cb06fd2b13f126f2bec1"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.pyeongnudo.champion:pyeongnudo_champion:0.1.0-source-candidate@jar",
+                                            "name":  "Pyeongnudo Champion - Ethan (Adaptive)",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  25162,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.14/asset-0001.jar",
+                                                             "MD5":  "32da39182753eaea998a7e09b59d80ec"
                                                          }
                                         },
                                         {
