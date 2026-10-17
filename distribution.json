@@ -8,10 +8,10 @@
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
                         "version":  "0.1.11",
-                        "address":  "localhost:25565",
+                        "address":  "218.156.180.181:25565",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
-                        "autoconnect":  false,
+                        "autoconnect":  true,
                         "javaOptions":  {
                                             "supported":  "\u003e=21 \u003c22",
                                             "suggestedMajor":  21,
