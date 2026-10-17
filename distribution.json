@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.14",
+                        "version":  "0.1.15",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1368,9 +1368,9 @@
                                             "name":  "Pyeongnudo Champion - Ethan (Adaptive)",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  25162,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.14/asset-0001.jar",
-                                                             "MD5":  "32da39182753eaea998a7e09b59d80ec"
+                                                             "size":  25179,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.15/asset-0001.jar",
+                                                             "MD5":  "771a94b3b30a436742ca023f90b6b069"
                                                          }
                                         },
                                         {
@@ -1983,14 +1983,14 @@
                                                          }
                                         },
                                         {
-                                            "id":  "Pyeongnudo_EliteFour_NPC_Skins_1.21.1.zip",
-                                            "name":  "Pyeongnudo_EliteFour_NPC_Skins_1.21.1.zip",
+                                            "id":  "Pyeongnudo_EliteFour_Champion_NPC_Skins_1.21.1.zip",
+                                            "name":  "Pyeongnudo_EliteFour_Champion_NPC_Skins_1.21.1.zip",
                                             "type":  "File",
                                             "artifact":  {
-                                                             "size":  202159,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.12/asset-0005.zip",
-                                                             "MD5":  "ecae6e9bd3641d0efaf539e74aad0d49",
-                                                             "path":  "resourcepacks/Pyeongnudo_EliteFour_NPC_Skins_1.21.1.zip"
+                                                             "size":  205959,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.15/asset-0002.zip",
+                                                             "MD5":  "70b605043c696db8a712bf03f8042d81",
+                                                             "path":  "resourcepacks/Pyeongnudo_EliteFour_Champion_NPC_Skins_1.21.1.zip"
                                                          }
                                         },
                                         {
