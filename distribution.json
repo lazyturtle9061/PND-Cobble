@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.24",
+                        "version":  "0.1.25",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -334,13 +334,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleadmin:cobbleadmin:0.4.2@jar",
+                                            "id":  "dev.cobbleadmin:cobbleadmin:0.4.3@jar",
                                             "name":  "CobbleAdmin",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  87344,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.24/asset-0001.jar",
-                                                             "MD5":  "7258f41111aa10ec924a574d6cc41cea"
+                                                             "size":  84756,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.25/asset-0001.jar",
+                                                             "MD5":  "ec23ed9e81ea6bd3829603743631d7c0"
                                                          }
                                         },
                                         {
