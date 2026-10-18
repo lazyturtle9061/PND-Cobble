@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.28",
+                        "version":  "0.1.29",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -354,6 +354,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "dev.cobbleverse.compute:cobblecompute_client:0.5.0-dev16@jar",
+                                            "name":  "Cobbleverse Compute Client",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  147250,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.29/asset-0001.jar",
+                                                             "MD5":  "809ff5159002e5a733243c5224ff5f5f"
+                                                         }
+                                        },
+                                        {
                                             "id":  "com.fyre:cobblecuisine:2.0.1@jar",
                                             "name":  "CobbleCuisine",
                                             "type":  "FabricMod",
@@ -444,13 +454,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend:cobblelegend:0.3.6.2-worldedit-undo-chunkcapture-test@jar",
+                                            "id":  "dev.cobblelegend:cobblelegend:0.3.7-worldedit-schematic-test@jar",
                                             "name":  "CobbleLegend",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  63253,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.28/asset-0001.jar",
-                                                             "MD5":  "10197a504eab8b7d6e5720fb384eb97d"
+                                                             "size":  534633,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.29/asset-0002.jar",
+                                                             "MD5":  "24decb128c3ac7a27fb5c114d64205c7"
                                                          }
                                         },
                                         {
