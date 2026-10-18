@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.16",
+                        "version":  "0.1.17",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -638,9 +638,9 @@
                                             "name":  "COBBLEVERSE Badges",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  134875,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.13/asset-0002.jar",
-                                                             "MD5":  "46ca0913bd1356ca6f1dd2cbf8825396"
+                                                             "size":  154786,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.17/asset-0001.jar",
+                                                             "MD5":  "39e122d605cd22518ad60d733ce6dc39"
                                                          }
                                         },
                                         {
