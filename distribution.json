@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.19",
+                        "version":  "0.1.20",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1384,13 +1384,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo.badges:pyeongnudobadges:0.1.8-iv-trophy-overlay-fix@jar",
+                                            "id":  "dev.pyeongnudo.badges:pyeongnudobadges:0.1.9@jar",
                                             "name":  "Pyeongnudo Badges",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3615509,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.19/asset-0001.jar",
-                                                             "MD5":  "a1e857093ae92b2346fbfc53166e9683"
+                                                             "size":  3608173,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.20/asset-0001.jar",
+                                                             "MD5":  "3b714087ead7044f0fe65137cb786371"
                                                          }
                                         },
                                         {
