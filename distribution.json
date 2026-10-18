@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.15",
+                        "version":  "0.1.16",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -344,13 +344,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleverse.compute:cobblecompute_client:0.5.0-dev12@jar",
+                                            "id":  "dev.cobbleverse.compute:cobblecompute_client:0.5.0-dev14@jar",
                                             "name":  "Cobbleverse Compute Client",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  132630,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.12/asset-0001.jar",
-                                                             "MD5":  "545048f768bb00770efefefdaf769771"
+                                                             "size":  142880,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.16/asset-0001.jar",
+                                                             "MD5":  "fbfd8674b8b9d89bd5609fc1314c0a1e"
                                                          }
                                         },
                                         {
@@ -1782,17 +1782,6 @@
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0010.properties",
                                                              "MD5":  "0c1dd43e9ebb98cf674e40a7686d3c1c",
                                                              "path":  "config/cobblecompute-client.properties"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "Terralith_1.21.x_v2.5.8.jar.disabled",
-                                            "name":  "Terralith_1.21.x_v2.5.8.jar.disabled",
-                                            "type":  "File",
-                                            "artifact":  {
-                                                             "size":  3115385,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0161.disabled",
-                                                             "MD5":  "93dd6c7f8824e531fedaf37fd23f5c99",
-                                                             "path":  "mods/Terralith_1.21.x_v2.5.8.jar.disabled"
                                                          }
                                         },
                                         {
