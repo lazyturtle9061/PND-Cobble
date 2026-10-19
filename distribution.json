@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.30",
+                        "version":  "0.1.31",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -621,6 +621,16 @@
                                                              "size":  245157,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0061.jar",
                                                              "MD5":  "79b57f45eb3ee3e742c08106ff232a05"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.pyeongnudo.trainerbridge:cobblequest_trainer_dialogue_bridge:0.1.0@jar",
+                                            "name":  "CobbleQuest Trainer Dialogue Bridge",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  27217,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.31/asset-0001.jar",
+                                                             "MD5":  "0f805eeb1468d1f4cef272945c9defa3"
                                                          }
                                         },
                                         {
@@ -1391,6 +1401,16 @@
                                                              "size":  3609653,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0136.jar",
                                                              "MD5":  "17a78a5114c9369b9c0f916ea5c6deb6"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.pyeongnudo.rctcompat:pyeongnudo_rctcompat:0.1.0@jar",
+                                            "name":  "Pyeongnudo RCT Compatibility",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  6270,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.31/asset-0002.jar",
+                                                             "MD5":  "51470178e972afcdf5e69900e77122da"
                                                          }
                                         },
                                         {
