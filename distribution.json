@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.51",
+                        "version":  "0.1.52",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -434,13 +434,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblegymmode.api:cobblegym_gym_victory_api:0.3.7@jar",
-                                            "name":  "CobbleGym Gym Victory API Addon",
+                                            "id":  "dev.cobblegymmode.api:cobblegym_gym_victory_api:0.3.8.1@jar",
+                                            "name":  "CobbleGym Gym Victory API — Pyeongnudo First Clear",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  19928,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0042.jar",
-                                                             "MD5":  "3b29e419ca720fdfa14f6cc15e1dfbdc"
+                                                             "size":  33376,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.52/asset-0001.jar",
+                                                             "MD5":  "b1a799eae1384512b490c5971b94210e"
                                                          }
                                         },
                                         {
@@ -454,13 +454,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.24-hooh-altar-quest-gate-test@jar",
+                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.28-eternatus-fossil-portal-test@jar",
                                             "name":  "CobbleLegend",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  626972,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.51/asset-0001.jar",
-                                                             "MD5":  "6c05ba34fe7cf69850f4ffaaa10c3059"
+                                                             "size":  668577,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.52/asset-0002.jar",
+                                                             "MD5":  "667c9a93b76c3e131d160f29feb54499"
                                                          }
                                         },
                                         {
@@ -614,13 +614,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.lakkomi:cobblequest:0.2.3@jar",
+                                            "id":  "com.lakkomi:cobblequest:0.2.3+eternatusresearcher.1@jar",
                                             "name":  "CobbleQuest",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  245157,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0061.jar",
-                                                             "MD5":  "79b57f45eb3ee3e742c08106ff232a05"
+                                                             "size":  248037,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.52/asset-0003.jar",
+                                                             "MD5":  "000fc3c5026af45fb59a25d3d26eaca7"
                                                          }
                                         },
                                         {
