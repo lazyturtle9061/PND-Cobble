@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.57",
+                        "version":  "0.1.58",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -434,13 +434,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblegymmode.api:cobblegym_gym_victory_api:0.3.8.5@jar",
+                                            "id":  "dev.cobblegymmode.api:cobblegym_gym_victory_api:0.3.8.6@jar",
                                             "name":  "CobbleGym Gym Victory API — Pyeongnudo First Clear",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  39721,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.57/asset-0001.jar",
-                                                             "MD5":  "9e347c869a517a23cff66f5a0ebc5cc7"
+                                                             "size":  41066,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.58/asset-0001.jar",
+                                                             "MD5":  "b398858dd95d440e8a0771da292deb97"
                                                          }
                                         },
                                         {
