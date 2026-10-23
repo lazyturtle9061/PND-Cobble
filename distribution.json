@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.62",
+                        "version":  "0.1.63",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -454,13 +454,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.31-eternatus-worldfirst-system-ui-fix-test@jar",
+                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.32-eternatus-automatic-system-ui-lookup-fix-test@jar",
                                             "name":  "CobbleLegend",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  677106,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.62/asset-0001.jar",
-                                                             "MD5":  "481eee1b077b6db226dd3fbc44476930"
+                                                             "size":  677113,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.63/asset-0001.jar",
+                                                             "MD5":  "ebd573480117cb6f5e76b190aed0c3d8"
                                                          }
                                         },
                                         {
