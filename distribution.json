@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.82",
+                        "version":  "0.1.83",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -794,13 +794,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.3@jar",
+                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.4@jar",
                                             "name":  "Eternatus Trial — Phase 1",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  32391,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.82/asset-0001.jar",
-                                                             "MD5":  "656e04992aace0a3d49796ab74d4a4cd"
+                                                             "size":  36339,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.83/asset-0001.jar",
+                                                             "MD5":  "90d283c1b4f4054522f121de68354aad"
                                                          }
                                         },
                                         {
