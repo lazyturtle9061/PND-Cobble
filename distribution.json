@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.72",
+                        "version":  "0.1.73",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1371,6 +1371,16 @@
                                                              "size":  1606467,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0135.jar",
                                                              "MD5":  "a576344a9af471b67b47437adcdd2a63"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "generated.fabricmod:portalpreview:0.1.0@jar",
+                                            "name":  "Portal Preview - Eternatus 3D",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1027309,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.73/asset-0001.jar",
+                                                             "MD5":  "76e201b9d5d0eb097092f5541e4d98ab"
                                                          }
                                         },
                                         {
