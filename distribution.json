@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.90",
+                        "version":  "0.1.91",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -794,13 +794,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.12@jar",
-                                            "name":  "EternatusTrial — Cocoon Purple Right-click Reliability Fix",
+                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.13@jar",
+                                            "name":  "EternatusTrial — Silent Phase1 \u0026 Faster Heartbeat",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  53402,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.90/asset-0001.jar",
-                                                             "MD5":  "f1e524455ec438fed4051c473f63857f"
+                                                             "size":  52994,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.91/asset-0001.jar",
+                                                             "MD5":  "09584a856733aeb6ca70e8ab95d198e6"
                                                          }
                                         },
                                         {
