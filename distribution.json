@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.98",
+                        "version":  "0.1.99",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -444,16 +444,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.46-eternatus-zamazenta-guardian-trial-test@jar",
-                                            "name":  "CobbleLegend",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1533760,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.78/asset-0001.jar",
-                                                             "MD5":  "cf3b99b0c478aa97062e4c3fdd690843"
-                                                         }
-                                        },
-                                        {
                                             "id":  "battle.tower:cobblemon_battle_tower:1.11.23@jar",
                                             "name":  "Cobblemon Battle Tower",
                                             "type":  "FabricMod",
@@ -781,6 +771,16 @@
                                                              "size":  1595131,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0075.jar",
                                                              "MD5":  "833cb8fd661a52acf63856d22e45f832"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.47-eternatus-cocoon-worldedit-undo-test@jar",
+                                            "name":  "CobbleLegend",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1536835,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.99/asset-0001.jar",
+                                                             "MD5":  "46f029f7ab0b6f7186bb60090df9efce"
                                                          }
                                         },
                                         {
