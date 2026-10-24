@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.95",
+                        "version":  "0.1.96",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -344,23 +344,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleverse.compute:cobblecompute_client:0.5.0-dev15@jar",
+                                            "id":  "dev.cobbleverse.compute:cobblecompute_client:0.5.0-dev17@jar",
                                             "name":  "Cobbleverse Compute Client",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  143709,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.23/asset-0002.jar",
-                                                             "MD5":  "52bdf0e20bdbd45a61facdd410483db2"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "dev.cobbleverse.compute:cobblecompute_client:0.5.0-dev16@jar",
-                                            "name":  "Cobbleverse Compute Client",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  147250,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.29/asset-0001.jar",
-                                                             "MD5":  "809ff5159002e5a733243c5224ff5f5f"
+                                                             "size":  167873,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.96/asset-0001.jar",
+                                                             "MD5":  "5d5b1479bf890baf669c9b8c6155d91a"
                                                          }
                                         },
                                         {
