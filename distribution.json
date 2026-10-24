@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.86",
+                        "version":  "0.1.87",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -794,13 +794,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.8@jar",
-                                            "name":  "Eternatus Trial — Phase 1",
+                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.9@jar",
+                                            "name":  "EternatusTrial — Cocoon Awakening FX",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  47471,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.86/asset-0001.jar",
-                                                             "MD5":  "a43fc5d531d6317bd634f48b50696b07"
+                                                             "size":  51464,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.87/asset-0001.jar",
+                                                             "MD5":  "53f910661c6df25f8be9328b95edce97"
                                                          }
                                         },
                                         {
