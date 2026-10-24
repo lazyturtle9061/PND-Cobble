@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.97",
+                        "version":  "0.1.98",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -784,13 +784,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.19@jar",
+                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.20@jar",
                                             "name":  "EternatusTrial — Phase 2 BEFORE AFTER Meteor Ascent Test",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  83263,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.97/asset-0001.jar",
-                                                             "MD5":  "bf13e95594a6a668fe685e5dfdc66d1d"
+                                                             "size":  85891,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.98/asset-0001.jar",
+                                                             "MD5":  "10ed46aadea6f57913351f1664b319d4"
                                                          }
                                         },
                                         {
