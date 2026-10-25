@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.101",
+                        "version":  "0.1.102",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1514,6 +1514,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "dev.ryanhcode:sable:2.0.6@jar",
+                                            "name":  "Sable",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  17162518,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.102/asset-0001.jar",
+                                                             "MD5":  "715ad75e30e5a7c6218ad732b07f7f9e"
+                                                         }
+                                        },
+                                        {
                                             "id":  "chadlymasterson.safepastures:safepastures:1.1.1+1.21.1@jar",
                                             "name":  "Safe Pastures",
                                             "type":  "FabricMod",
@@ -1521,16 +1531,6 @@
                                                              "size":  16518,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0148.jar",
                                                              "MD5":  "af5597adebbfad7f73c01e118d93bf97"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "ca.spottedleaf.starlight:scalablelux:0.1.0.1+fabric.d0d58ab@jar",
-                                            "name":  "ScalableLux",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  177266,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0149.jar",
-                                                             "MD5":  "34cb60a3db0f2439db221bc3325c1411"
                                                          }
                                         },
                                         {
