@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.127",
+                        "version":  "0.1.128",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -784,13 +784,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.39@jar",
+                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.40@jar",
                                             "name":  "EternatusTrial — Zamazenta Cinematic Bridge",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  213573,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.127/asset-0001.jar",
-                                                             "MD5":  "13355ba31a0729d3359c4c98e1831392"
+                                                             "size":  220031,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.128/asset-0001.jar",
+                                                             "MD5":  "b0a744ee192d1b347e3eaf8f7efe3fbf"
                                                          }
                                         },
                                         {
