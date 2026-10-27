@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.125",
+                        "version":  "0.1.126",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -444,13 +444,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.56-zamazenta-story-sync@jar",
+                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.57-zamazenta-phase1-gate@jar",
                                             "name":  "CobbleLegend",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  938260,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.125/asset-0001.jar",
-                                                             "MD5":  "0f4d69396b7f0824f12b71ea1a602225"
+                                                             "size":  938574,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.126/asset-0001.jar",
+                                                             "MD5":  "814cc988a9fdc15a532f865e5ce3ae20"
                                                          }
                                         },
                                         {
@@ -604,13 +604,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.lakkomi:cobblequest:0.2.3.1-researcher-zamazenta-conditional@jar",
+                                            "id":  "com.lakkomi:cobblequest:0.2.3.3-zamazenta-phase1-gate@jar",
                                             "name":  "CobbleQuest",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  248998,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.118/asset-0002.jar",
-                                                             "MD5":  "49d7b3fa6e58b7396fb69cb7b8bfbb24"
+                                                             "size":  250849,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.126/asset-0002.jar",
+                                                             "MD5":  "5de2f31513d11196be3c80540e758359"
                                                          }
                                         },
                                         {
