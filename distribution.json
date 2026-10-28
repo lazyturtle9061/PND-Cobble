@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.134",
+                        "version":  "0.1.135",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -444,13 +444,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.61-rusted-shield-tooltip-cleaner@jar",
+                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.64-final-routes-INTEGRATION-TEST@jar",
                                             "name":  "CobbleLegend",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  953525,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.134/asset-0001.jar",
-                                                             "MD5":  "1c1472e418b5fce7701c2920f572157b"
+                                                             "size":  990510,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.135/asset-0001.jar",
+                                                             "MD5":  "4c9d25a67408532a233aa7fe2345ab1e"
                                                          }
                                         },
                                         {
@@ -784,13 +784,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.42@jar",
+                                            "id":  "dev.pyeongnudo:eternatustrial:0.1.43-final-routes-compat-TEST@jar",
                                             "name":  "EternatusTrial — Zamazenta Cinematic Bridge",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  244367,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.130/asset-0001.jar",
-                                                             "MD5":  "6162ad6a0b6110bea6b049660c3e8d03"
+                                                             "size":  244572,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.135/asset-0002.jar",
+                                                             "MD5":  "29d679e391de0736d34b6e167c6f7d74"
                                                          }
                                         },
                                         {
