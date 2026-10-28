@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.132",
+                        "version":  "0.1.133",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -444,13 +444,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.59-blacksmith-armor-fossil@jar",
+                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.60-rusted-shield-lore@jar",
                                             "name":  "CobbleLegend",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  949181,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.132/asset-0001.jar",
-                                                             "MD5":  "55ca94afe9498afde98f1fe83e1a0754"
+                                                             "size":  949983,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.133/asset-0001.jar",
+                                                             "MD5":  "82b6c048a45a0a53d0faeb6aa6b84834"
                                                          }
                                         },
                                         {
