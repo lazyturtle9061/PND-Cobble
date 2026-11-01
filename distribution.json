@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.155",
+                        "version":  "0.1.156",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -614,13 +614,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleverse.cinematic:cobblequest_cinematic:0.1.5@jar",
+                                            "id":  "dev.cobbleverse.cinematic:cobblequest_cinematic:0.1.6@jar",
                                             "name":  "CobbleQuest Cinematic Dialogue",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  25252,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.155/asset-0001.jar",
-                                                             "MD5":  "384373a9b703da00fe417aa11ec3e2bd"
+                                                             "size":  26580,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.156/asset-0001.jar",
+                                                             "MD5":  "c619a5d29211fed3897df95653807715"
                                                          }
                                         },
                                         {
