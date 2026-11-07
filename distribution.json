@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.177",
+                        "version":  "0.1.178",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -621,6 +621,16 @@
                                                              "size":  26580,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.156/asset-0001.jar",
                                                              "MD5":  "c619a5d29211fed3897df95653807715"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.cobbleverse.npcpose:cobblequest_npc_pose:0.1.0@jar",
+                                            "name":  "CobbleQuest NPC Pose \u0026 Auto Skin Model",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  39440,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.178/asset-0001.jar",
+                                                             "MD5":  "d4551f9b8f8e9541ac70ca14d3452430"
                                                          }
                                         },
                                         {
