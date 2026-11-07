@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.178",
+                        "version":  "0.1.179",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -444,13 +444,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.103-ForgeIconControls-TEST@jar",
+                                            "id":  "dev.cobblelegend.hooh:cobblelegend:0.3.8.104-ForgeTempoControls-TEST@jar",
                                             "name":  "CobbleLegend",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2025431,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.177/asset-0001.jar",
-                                                             "MD5":  "e4c6ef6ac4c96361b12e005f9d954005"
+                                                             "size":  2030403,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.179/asset-0001.jar",
+                                                             "MD5":  "2acf24342df4c08bdefd9d40647e47c4"
                                                          }
                                         },
                                         {
@@ -628,9 +628,9 @@
                                             "name":  "CobbleQuest NPC Pose \u0026 Auto Skin Model",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  39440,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.178/asset-0001.jar",
-                                                             "MD5":  "d4551f9b8f8e9541ac70ca14d3452430"
+                                                             "size":  38952,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.179/asset-0002.jar",
+                                                             "MD5":  "826aab9c7190c14214758ce6a4e2a440"
                                                          }
                                         },
                                         {
