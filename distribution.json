@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.189",
+                        "version":  "0.1.190",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -394,16 +394,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.2.16@jar",
-                                            "name":  "Cobble Economy",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  2613454,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.32/asset-0001.jar",
-                                                             "MD5":  "40342800c9c47389529e1100533f5a28"
-                                                         }
-                                        },
-                                        {
                                             "id":  "com.lunazstudios:cobblefurnies:1.2@jar",
                                             "name":  "CobbleFurnies",
                                             "type":  "FabricMod",
@@ -661,6 +651,16 @@
                                                              "size":  23468,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0063.jar",
                                                              "MD5":  "db920185ae6d761a8b632ee6033c1a5b"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.0-alpha1@jar",
+                                            "name":  "Cobbleverse Tablet Menu — Reboot",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  2946697,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.190/asset-0001.jar",
+                                                             "MD5":  "f8dfef668fa5fedc87976e52915adf07"
                                                          }
                                         },
                                         {
