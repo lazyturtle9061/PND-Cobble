@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.190",
+                        "version":  "0.1.191",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -654,13 +654,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.0-alpha1@jar",
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.1-dev1@jar",
                                             "name":  "Cobbleverse Tablet Menu — Reboot",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2946697,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.190/asset-0001.jar",
-                                                             "MD5":  "f8dfef668fa5fedc87976e52915adf07"
+                                                             "size":  3578588,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.191/asset-0001.jar",
+                                                             "MD5":  "044fb6d36463395f92551236acb119db"
                                                          }
                                         },
                                         {
