@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.200",
+                        "version":  "0.1.201",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1424,13 +1424,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.4-album1@jar",
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.4-album2@jar",
                                             "name":  "평누도 코블몬 원정대",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  7125289,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.200/asset-0001.jar",
-                                                             "MD5":  "79cd7727163dad6905e4b9fe929ff191"
+                                                             "size":  7126930,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.201/asset-0001.jar",
+                                                             "MD5":  "6d73c2fc0ff1f1681a20053d87a212f6"
                                                          }
                                         },
                                         {
