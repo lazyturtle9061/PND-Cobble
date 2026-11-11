@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.208",
+                        "version":  "0.1.209",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -634,13 +634,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblestock:cobblestock:0.1.20@jar",
+                                            "id":  "dev.cobblestock:cobblestock:0.1.21@jar",
                                             "name":  "CobbleStock",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  107792,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.208/asset-0001.jar",
-                                                             "MD5":  "e09e1d6c5e149192a55b2a491923a09f"
+                                                             "size":  107806,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.209/asset-0001.jar",
+                                                             "MD5":  "315cdf39fad06fa17bba9d4db859a4f5"
                                                          }
                                         },
                                         {
