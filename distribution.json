@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.210",
+                        "version":  "0.1.211",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -404,13 +404,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblegacha:cobblegacha:0.5.38@jar",
+                                            "id":  "dev.cobblegacha:cobblegacha:0.5.39@jar",
                                             "name":  "CobbleGacha",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  13991492,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0041.jar",
-                                                             "MD5":  "4fd1d9c16bcfdaff3e4bd2c0c2fd3890"
+                                                             "size":  14008526,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.211/asset-0001.jar",
+                                                             "MD5":  "755ea184720904051c3524e8cd50f424"
                                                          }
                                         },
                                         {
