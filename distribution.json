@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.235",
+                        "version":  "0.1.236",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -951,6 +951,16 @@
                                                              "size":  100230,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0092.jar",
                                                              "MD5":  "3d2c52db7fb380822586b6d42ecde976"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "org.hypernetwork:hyperlib:1.2.85@jar",
+                                            "name":  "HyperLib",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  37511052,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.236/asset-0001.jar",
+                                                             "MD5":  "befb65b69905dac4c4d2e78333ee3a71"
                                                          }
                                         },
                                         {
