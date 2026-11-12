@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.242",
+                        "version":  "0.1.243",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -951,6 +951,26 @@
                                                              "size":  100230,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0092.jar",
                                                              "MD5":  "3d2c52db7fb380822586b6d42ecde976"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "org.hypernetwork:hypercamera:2.0.65@jar",
+                                            "name":  "HyperCamera",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  2454023,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.243/asset-0001.jar",
+                                                             "MD5":  "36379a784a9f409382d6a75c58acc6ae"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "org.hypernetwork:hypercameraphone:0.1.40@jar",
+                                            "name":  "HyperCameraPhone",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1056529,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.243/asset-0002.jar",
+                                                             "MD5":  "9d7741bad24bd743af6e00f665bfeaa1"
                                                          }
                                         },
                                         {
