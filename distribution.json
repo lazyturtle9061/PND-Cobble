@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.246",
+                        "version":  "0.1.247",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1454,13 +1454,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo.gram.server:pyeongnudo_gram_server_compat:0.6.0@jar",
+                                            "id":  "dev.pyeongnudo.gram.server:pyeongnudo_gram_server_compat:0.6.1@jar",
                                             "name":  "Pyeongnudo Gram Original Protocol Compatibility",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  89878,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.246/asset-0001.jar",
-                                                             "MD5":  "2e2f09c97d5f6e2d99dab62d7298afb6"
+                                                             "size":  92438,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.247/asset-0001.jar",
+                                                             "MD5":  "e37e9bbe46406e6e02d871c0b2a71f93"
                                                          }
                                         },
                                         {
