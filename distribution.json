@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.254",
+                        "version":  "0.1.255",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1454,13 +1454,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:pyeongnudogram:0.4.3@jar",
+                                            "id":  "dev.cobbleeconomy:pyeongnudogram:0.4.4@jar",
                                             "name":  "평누도그램 — 원본 HyperTalk UI·카메라 품질 동기화",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  22196,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.249/asset-0001.jar",
-                                                             "MD5":  "1fd6380af01dbb73fc17b4c647b8e56a"
+                                                             "size":  22385,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.255/asset-0001.jar",
+                                                             "MD5":  "8ca7d8e4347220ec6875ed8b244f581a"
                                                          }
                                         },
                                         {
@@ -1494,13 +1494,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.21.2@jar",
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.21.3@jar",
                                             "name":  "평누도 코블몬 원정대",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  7148770,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.254/asset-0001.jar",
-                                                             "MD5":  "9ef400b31f65f33340a94841d6fc57a9"
+                                                             "size":  7148951,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.255/asset-0002.jar",
+                                                             "MD5":  "33466d922815c8247cf0900740eb8781"
                                                          }
                                         },
                                         {
