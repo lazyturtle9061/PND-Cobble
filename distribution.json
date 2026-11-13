@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.248",
+                        "version":  "0.1.249",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1444,23 +1444,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:pyeongnudogram:0.4.2@jar",
-                                            "name":  "평누도그램 — 원본 HyperTalk UI·HyperCamera 미리보기 브리지",
+                                            "id":  "dev.cobbleeconomy:pyeongnudogram:0.4.3@jar",
+                                            "name":  "평누도그램 — 원본 HyperTalk UI·카메라 품질 동기화",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  16022,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.248/asset-0001.jar",
-                                                             "MD5":  "5a94abe21db0ea519620501a5d856532"
+                                                             "size":  22196,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.249/asset-0001.jar",
+                                                             "MD5":  "1fd6380af01dbb73fc17b4c647b8e56a"
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo.gram.server:pyeongnudo_gram_server_compat:0.6.1@jar",
+                                            "id":  "dev.pyeongnudo.gram.server:pyeongnudo_gram_server_compat:0.6.2@jar",
                                             "name":  "Pyeongnudo Gram Original Protocol Compatibility",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  92438,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.247/asset-0001.jar",
-                                                             "MD5":  "e37e9bbe46406e6e02d871c0b2a71f93"
+                                                             "size":  94893,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.249/asset-0002.jar",
+                                                             "MD5":  "2b672d03edd8b787acbfafd7a4e39b7f"
                                                          }
                                         },
                                         {
