@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.247",
+                        "version":  "0.1.248",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1444,13 +1444,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:pyeongnudogram:0.4.1@jar",
-                                            "name":  "평누도그램 — 원본 HyperTalk UI 브리지",
+                                            "id":  "dev.cobbleeconomy:pyeongnudogram:0.4.2@jar",
+                                            "name":  "평누도그램 — 원본 HyperTalk UI·HyperCamera 미리보기 브리지",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  13576,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.245/asset-0001.jar",
-                                                             "MD5":  "dfd553135f78859bfa15bb95c25eca86"
+                                                             "size":  16022,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.248/asset-0001.jar",
+                                                             "MD5":  "5a94abe21db0ea519620501a5d856532"
                                                          }
                                         },
                                         {
