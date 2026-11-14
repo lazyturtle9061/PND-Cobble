@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.259",
+                        "version":  "0.1.260",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1494,13 +1494,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.21.8@jar",
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.21.10@jar",
                                             "name":  "평누도 코블몬 원정대",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  7155520,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.259/asset-0001.jar",
-                                                             "MD5":  "a9b7978a3b3522fba279a2c86f75d4ca"
+                                                             "size":  7160276,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.260/asset-0001.jar",
+                                                             "MD5":  "e08d5387b4a64c96966a5961c33c1e9b"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.pyeongnudo.wiki:pyeongnudo_wiki:1.0.0@jar",
+                                            "name":  "평누도 포켓몬 위키",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  2173589,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.260/asset-0002.jar",
+                                                             "MD5":  "a382f32212ccb7af7a30638c572e98a7"
                                                          }
                                         },
                                         {
