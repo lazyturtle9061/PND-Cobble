@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.267",
+                        "version":  "0.1.268",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -934,96 +934,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "org.hypernetwork:hypercamera:2.0.65@jar",
-                                            "name":  "HyperCamera",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  2454023,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.243/asset-0001.jar",
-                                                             "MD5":  "36379a784a9f409382d6a75c58acc6ae"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "org.hypernetwork:hypercameraphone:0.1.40@jar",
-                                            "name":  "HyperCameraPhone",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1056529,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.243/asset-0002.jar",
-                                                             "MD5":  "9d7741bad24bd743af6e00f665bfeaa1"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "generated.fabricmod:hyperlang:0.1.5@jar",
-                                            "name":  "HyperLang",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  17563,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.261/asset-0001.jar",
-                                                             "MD5":  "e06d0ac42c2f2d4c6705997da7f47917"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "org.hypernetwork:hyperlib:1.2.85@jar",
-                                            "name":  "HyperLib",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  37511052,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.236/asset-0001.jar",
-                                                             "MD5":  "befb65b69905dac4c4d2e78333ee3a71"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "org.hypernetwork:hyperlib:1.2.87@jar",
-                                            "name":  "HyperLib",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  37692430,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.261/asset-0002.jar",
-                                                             "MD5":  "ba039d2db4100bc15a69c7faafdae345"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "org.hypernetwork.mainmenu:hypermainmenu:1.0.133@jar",
-                                            "name":  "HyperMainMenu",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  5174250,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.253/asset-0001.jar",
-                                                             "MD5":  "d66b30c33161360e45a45661585b7fd2"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "org.hypernetwork.pwiki:hyperpokewiki:1.0.98@jar",
-                                            "name":  "HyperPokeWiki",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1482262,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.261/asset-0003.jar",
-                                                             "MD5":  "e92a30f0e9049a21bd7369ef646d6e1c"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "org.hypernetwork.rating:hyperrating:1.0.110@jar",
-                                            "name":  "HyperRating",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  5592981,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.261/asset-0004.jar",
-                                                             "MD5":  "3a37278b5f1d0b02a67954d689ef6c19"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "org.hypernetwork:hypertalk:0.4.75@jar",
-                                            "name":  "HyperTalk",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  3635558,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.235/asset-0001.jar",
-                                                             "MD5":  "135afe78a46c77637f160e95ce4b4f6b"
-                                                         }
-                                        },
-                                        {
                                             "id":  "com.anthonyhilyard:iceberg:1.3.2@jar",
                                             "name":  "Iceberg",
                                             "type":  "FabricMod",
@@ -1474,16 +1384,6 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:pyeongnudogram:0.4.6@jar",
-                                            "name":  "평누도그램 — 원본 HyperTalk UI·카메라 품질 동기화",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  28695,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.264/asset-0001.jar",
-                                                             "MD5":  "0540fd341cd5262a3a8a507c35b5c56a"
-                                                         }
-                                        },
-                                        {
                                             "id":  "generated.fabricmod:pyeongnudo_gym_difficulty_addon:0.3.6@jar",
                                             "name":  "Pyeongnudo Unified Gym - Badge Render Fix",
                                             "type":  "FabricMod",
@@ -1501,26 +1401,6 @@
                                                              "size":  6270,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.31/asset-0002.jar",
                                                              "MD5":  "51470178e972afcdf5e69900e77122da"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.21.10@jar",
-                                            "name":  "평누도 코블몬 원정대",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  7160276,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.260/asset-0001.jar",
-                                                             "MD5":  "e08d5387b4a64c96966a5961c33c1e9b"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.3.21.17@jar",
-                                            "name":  "평누도 코블몬 원정대",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  7198033,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.267/asset-0001.jar",
-                                                             "MD5":  "132760578f86cfbf877e30352b64a6be"
                                                          }
                                         },
                                         {
