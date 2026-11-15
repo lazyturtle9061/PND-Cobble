@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.270",
+                        "version":  "0.1.271",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1394,13 +1394,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo.media:pnd_media:1.0.3@jar",
+                                            "id":  "dev.pyeongnudo.media:pnd_media:1.0.4@jar",
                                             "name":  "평누도 카메라와 앨범",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2196067,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.270/asset-0001.jar",
-                                                             "MD5":  "bb8c094aa1b2b01feb4c03a755d3fde8"
+                                                             "size":  2212498,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.271/asset-0001.jar",
+                                                             "MD5":  "680739284e3a54af6235ef2c3efa315d"
                                                          }
                                         },
                                         {
@@ -1414,23 +1414,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.4.3@jar",
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.4.4@jar",
                                             "name":  "평누도 코블몬 원정대",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  5109301,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.270/asset-0002.jar",
-                                                             "MD5":  "b584d72d562e108b633bde226f9c3f3c"
+                                                             "size":  5112157,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.271/asset-0002.jar",
+                                                             "MD5":  "02b798f4c16330f2fb39574124553356"
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo.wiki:pyeongnudo_wiki:1.1.3@jar",
+                                            "id":  "dev.pyeongnudo.wiki:pyeongnudo_wiki:1.1.4@jar",
                                             "name":  "평누도 포켓몬 위키",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3562534,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.270/asset-0003.jar",
-                                                             "MD5":  "dd59f2aef8999bcce851442c019a4e1b"
+                                                             "size":  3565385,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.271/asset-0003.jar",
+                                                             "MD5":  "f9b2d7f334c8e49c6d0615add0c8effb"
                                                          }
                                         },
                                         {
