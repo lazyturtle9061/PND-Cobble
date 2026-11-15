@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.268",
+                        "version":  "0.1.269",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1394,6 +1394,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "dev.pyeongnudo.media:pnd_media:1.0.2@jar",
+                                            "name":  "평누도 카메라와 앨범",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  2188029,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.269/asset-0001.jar",
+                                                             "MD5":  "727e3190c7079b3a8b73c1f51d04216d"
+                                                         }
+                                        },
+                                        {
                                             "id":  "dev.pyeongnudo.rctcompat:pyeongnudo_rctcompat:0.1.0@jar",
                                             "name":  "Pyeongnudo RCT Compatibility",
                                             "type":  "FabricMod",
@@ -1401,6 +1411,26 @@
                                                              "size":  6270,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.31/asset-0002.jar",
                                                              "MD5":  "51470178e972afcdf5e69900e77122da"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.4.2@jar",
+                                            "name":  "평누도 코블몬 원정대",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  5094115,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.269/asset-0002.jar",
+                                                             "MD5":  "eeb17b1cb1d3860c8c4099b9aaa88f4f"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.pyeongnudo.wiki:pyeongnudo_wiki:1.1.2@jar",
+                                            "name":  "평누도 포켓몬 위키",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  3532812,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.269/asset-0003.jar",
+                                                             "MD5":  "da5303894479fda14968114596b1b16c"
                                                          }
                                         },
                                         {
