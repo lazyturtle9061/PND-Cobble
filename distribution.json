@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.279",
+                        "version":  "0.1.280",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1354,13 +1354,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:pnddepartmentshop:0.1.1@jar",
+                                            "id":  "generated.fabricmod:pnddepartmentshop:0.1.2@jar",
                                             "name":  "평누도 백화점",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3306641,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.279/asset-0003.jar",
-                                                             "MD5":  "50ed669c3acf877b0d8f15fa683fe9f9"
+                                                             "size":  3308526,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.280/asset-0001.jar",
+                                                             "MD5":  "7701476c71714358285ac5e1321ca3c3"
                                                          }
                                         },
                                         {
