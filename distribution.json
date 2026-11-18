@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.281",
+                        "version":  "0.1.282",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -114,23 +114,23 @@
                                                            ]
                                         },
                                         {
-                                            "id":  "generated.fabricmod:accessories_compat_layer:0.1.12@jar",
+                                            "id":  "generated.fabricmod:accessories_compat_layer:0.1.13@jar",
                                             "name":  "Accessories Compatibility Layer",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  398321,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0012.jar",
-                                                             "MD5":  "a256ab28e228cee098a516eef191c886"
+                                                             "size":  398467,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0001.jar",
+                                                             "MD5":  "db8a35bbf34b06d5793e06120866829d"
                                                          }
                                         },
                                         {
-                                            "id":  "io.wispforest:accessories:1.1.0-beta.53+1.21.1@jar",
+                                            "id":  "io.wispforest:accessories:1.1.0-beta.54+1.21.1@jar",
                                             "name":  "Accessories",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1095802,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0011.jar",
-                                                             "MD5":  "1f332447eadf66a07b33e641816fcd5e"
+                                                             "size":  1103673,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0002.jar",
+                                                             "MD5":  "6dc66c76438b7f1715fe4260abb463b0"
                                                          }
                                         },
                                         {
@@ -138,9 +138,9 @@
                                             "name":  "AdvancementDisable",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  430412,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0013.jar",
-                                                             "MD5":  "0d7e6553d89b0175237310571d8c9fbe"
+                                                             "size":  430411,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0003.jar",
+                                                             "MD5":  "71bf410f5743041d2a12b9299eea6c61"
                                                          }
                                         },
                                         {
@@ -154,13 +154,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.architectury.utils:architectury:13.0.8@jar",
+                                            "id":  "com.apexhosting.partnerlink:apexhosting-partner-link:1.1.1@jar",
+                                            "name":  "Apex Hosting Partner Link",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  849869,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0004.jar",
+                                                             "MD5":  "1f9d8ec0511d2eca84ecab353becda3d"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "dev.architectury.utils:architectury:13.0.11@jar",
                                             "name":  "Architectury",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  600915,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0015.jar",
-                                                             "MD5":  "702e92d09a4855c6c8aa9e738a48efa4"
+                                                             "size":  600921,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0005.jar",
+                                                             "MD5":  "5d7a93f9b84d8facf6a7d7a51d71158b"
                                                          }
                                         },
                                         {
@@ -184,33 +194,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "net.blay09.mods:balm:21.0.63@jar",
+                                            "id":  "net.blay09.mods:balm:21.0.67@jar",
                                             "name":  "Balm",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  809717,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0018.jar",
-                                                             "MD5":  "5e38debfa0b29738bcdeef2511dda84d"
+                                                             "size":  808190,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0006.jar",
+                                                             "MD5":  "92db00e7c17a9d1235810b915ab149b6"
                                                          }
                                         },
                                         {
-                                            "id":  "io.github.suel_ki:beautify:2.0.0+1.21.1@jar",
+                                            "id":  "io.github.suel_ki.beautify.platform:beautify:3.7.0@jar",
                                             "name":  "Beautify",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  837607,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0019.jar",
-                                                             "MD5":  "eaf50ca33137846e0430aa8afc48a223"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "com.joshiki.betterpokedexscanner:better_pokedex_scanner:1.0.0@jar",
-                                            "name":  "Better Pokédex Scanner",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  350293,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0020.jar",
-                                                             "MD5":  "bb097232f80b5a070dec10e16af7b088"
+                                                             "size":  945126,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0007.jar",
+                                                             "MD5":  "b49b83ded76b02d6f6afe483f1961004"
                                                          }
                                         },
                                         {
@@ -244,6 +244,16 @@
                                                          }
                                         },
                                         {
+                                            "id":  "com.rivalzin:bettersearch:1.6.4@jar",
+                                            "name":  "Better Search",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  754034,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0008.jar",
+                                                             "MD5":  "2b8f3a85b8307f595475fd251b3dbff6"
+                                                         }
+                                        },
+                                        {
                                             "id":  "io.socol:betterthirdperson:1.9.0@jar",
                                             "name":  "Better Third Person",
                                             "type":  "FabricMod",
@@ -274,43 +284,53 @@
                                                          }
                                         },
                                         {
-                                            "id":  "us.timinc.mc.cobblemon.capturexp:capture_xp:1.7.3-fabric-1.3.0@jar",
+                                            "id":  "com.ishland:c2me:0.4.0-alpha.0.30+1.21.1@jar",
+                                            "name":  "Concurrent Chunk Management Engine",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  3810456,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0009.jar",
+                                                             "MD5":  "d2a9e9d53617e503994fbf08515e673f"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "us.timinc.mc.cobblemon.capturexp:capture_xp:1.8.4-fabric-1.3.0@jar",
                                             "name":  "Cobblemon Capture XP",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  22848,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0028.jar",
-                                                             "MD5":  "e6fc02948bb7b46b6554bc6df987e6f2"
+                                                             "size":  23382,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0010.jar",
+                                                             "MD5":  "ff3fe75db982cb83340ca3bf544ae3d1"
                                                          }
                                         },
                                         {
-                                            "id":  "net.im_maker:carved_wood:1.9.7-B@jar",
+                                            "id":  "net.im_maker:carved_wood:1.9.8-B@jar",
                                             "name":  "Carved Wood",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2891665,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0029.jar",
-                                                             "MD5":  "db596ba07c887eea948994cedf2504bd"
+                                                             "size":  2897856,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0011.jar",
+                                                             "MD5":  "e681482ddf90626d04c18374611b69d9"
                                                          }
                                         },
                                         {
-                                            "id":  "com.levelscraft7:catchindicator:1.7.0@jar",
+                                            "id":  "com.levelsfr:catchindicator:3.1.1@jar",
                                             "name":  "Catch Indicator",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  318477,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0030.jar",
-                                                             "MD5":  "9dca57ba58776552413eb5bd6d3888c3"
+                                                             "size":  396924,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0012.jar",
+                                                             "MD5":  "9f0c08ff20a3f06c70f714f704166a69"
                                                          }
                                         },
                                         {
-                                            "id":  "com.catchrate:catchrate-display:2.8.22@jar",
+                                            "id":  "com.catchrate:catchrate-display:2.12.4@jar",
                                             "name":  "Cobblemon Catch Rate Display",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  260470,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0031.jar",
-                                                             "MD5":  "c179e5ff4c5fa735bbcedd0f4fadf2dd"
+                                                             "size":  305606,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0013.jar",
+                                                             "MD5":  "0bd581f87de553c53fe56ab4f0da9cdd"
                                                          }
                                         },
                                         {
@@ -344,13 +364,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.fyre:cobblecuisine:2.0.1@jar",
+                                            "id":  "com.fyre:cobblecuisine:2.2.0-alpha1@jar",
                                             "name":  "CobbleCuisine",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  683115,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0035.jar",
-                                                             "MD5":  "3d61b2fab71618ae9dabed911f2e0a63"
+                                                             "size":  1191031,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0014.jar",
+                                                             "MD5":  "998d491e5d58bc15a240274b79fa9861"
                                                          }
                                         },
                                         {
@@ -364,13 +384,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.cobbledex:cobbledex-rei-emi-jei:2.0.4@jar",
+                                            "id":  "com.cobbledex:cobbledex-rei-emi-jei:2.31.2@jar",
                                             "name":  "CobbleDex REI/EMI/JEI",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  5042323,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0037.jar",
-                                                             "MD5":  "7e22a45187a81bc23df8b7fbf647af08"
+                                                             "size":  5430528,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0015.jar",
+                                                             "MD5":  "535adcd9e94bf752c8b29e18ec4b9385"
                                                          }
                                         },
                                         {
@@ -394,13 +414,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobblegacha:cobblegacha:0.5.47@jar",
+                                            "id":  "dev.cobblegacha:cobblegacha:0.5.48@jar",
                                             "name":  "CobbleGacha",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  14020120,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.277/asset-0001.jar",
-                                                             "MD5":  "6b72c64544a561f17c59adcbf8a4e9d6"
+                                                             "size":  14020165,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0016.jar",
+                                                             "MD5":  "d27b8330bc2f90b3f781b19829da8218"
                                                          }
                                         },
                                         {
@@ -434,13 +454,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "battle.tower:cobblemon_battle_tower:1.11.23@jar",
+                                            "id":  "battle.tower:cobblemon_battle_tower:1.11.24@jar",
                                             "name":  "Cobblemon Battle Tower",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  52072791,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0055.jar",
-                                                             "MD5":  "4e0bc0f3e9cf7fd320ba92232f7784cc"
+                                                             "size":  52073009,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0017.jar",
+                                                             "MD5":  "53589d154e6d2b7a38e50a0138745ee9"
                                                          }
                                         },
                                         {
@@ -454,23 +474,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "io.github.stainlessstasis:cobblemon_spawn_alerts:1.13.2@jar",
-                                            "name":  "Cobblemon 스폰 알림",
+                                            "id":  "io.github.stainlessstasis:cobblemon_spawn_alerts:1.13.2+1.8.4.pnd@jar",
+                                            "name":  "Cobblemon Spawn Alerts",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2968343,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0057.jar",
-                                                             "MD5":  "7507f46fc0e55e805873caeb99e350cb"
+                                                             "size":  2947608,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0018.jar",
+                                                             "MD5":  "59f5bcc8edea1233f6bc229b9c8c5874"
                                                          }
                                         },
                                         {
-                                            "id":  "io.strikeknight57.bca:cobblemon-additions:4.1.6@jar",
-                                            "name":  "Cobblemon Additions",
+                                            "id":  "generated.fabricmod:cobblemon:additions-4.1.6@jar",
+                                            "name":  "Cobblemon",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1949887,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.13/asset-0001.jar",
-                                                             "MD5":  "770f5213deba9ff86b592c092e58b719"
+                                                             "size":  1961229,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0019.jar",
+                                                             "MD5":  "73fd17cc59f38c1e03a1b2a37d7252af"
                                                          }
                                         },
                                         {
@@ -484,13 +504,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "name.modid:cobblemon-battle-extras:1.13.45@jar",
+                                            "id":  "name.modid:cobblemon-battle-extras:1.13.47@jar",
                                             "name":  "Cobblemon Battle Extras",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1515972,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0048.jar",
-                                                             "MD5":  "dbf09923dc28a0339c5c5bb7eae9061d"
+                                                             "size":  1520770,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0020.jar",
+                                                             "MD5":  "8b1d5215c1af58921d447dbc36911467"
                                                          }
                                         },
                                         {
@@ -504,13 +524,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.cobblemon.mod:cobblemon:1.7.3+1.21.1@jar",
+                                            "id":  "com.cobblemon.mod:cobblemon:1.8.4+1.21.1@jar",
                                             "name":  "Cobblemon",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  135801550,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0050.jar",
-                                                             "MD5":  "1de64f280372ec94e4376976fb579d52"
+                                                             "size":  139966403,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0021.jar",
+                                                             "MD5":  "717372480c2254cddc8b5a031ec4e7fa"
                                                          }
                                         },
                                         {
@@ -534,13 +554,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.necro.raid.dens:cobblemonraiddens:0.11.3+1.21.1@jar",
+                                            "id":  "com.necro.raid.dens:cobblemonraiddens:0.13.5+1.21.1@jar",
                                             "name":  "Cobblemon Raid Dens",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2690197,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0053.jar",
-                                                             "MD5":  "30283db43eee22f57df10d52a39323e6"
+                                                             "size":  2780291,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0022.jar",
+                                                             "MD5":  "e98a155cc77f52e0021abc0f41430119"
                                                          }
                                         },
                                         {
@@ -554,23 +574,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.metacontent:cobblenav:2.3.3@jar",
+                                            "id":  "com.metacontent:cobblenav:2.4.2@jar",
                                             "name":  "Cobblenav",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1090821,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0058.jar",
-                                                             "MD5":  "efbc5e5e05966cfd45f94ea0f8591cf2"
+                                                             "size":  1146123,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0023.jar",
+                                                             "MD5":  "58802f78ff455903f27957351901ff83"
                                                          }
                                         },
                                         {
-                                            "id":  "kr.cobblepatent:cobblepatent:0.1.8@jar",
+                                            "id":  "kr.cobblepatent:cobblepatent:0.1.9@jar",
                                             "name":  "Cobble Patent",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3461460,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.279/asset-0001.jar",
-                                                             "MD5":  "90f91a695c9e556fe04e1db4f43c2bee"
+                                                             "size":  3461461,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0024.jar",
+                                                             "MD5":  "f271f002e7a0ca6dc429143c3e0be2f2"
                                                          }
                                         },
                                         {
@@ -654,13 +674,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "ludichat.cobbreeding:cobbreeding:2.2.2@jar",
+                                            "id":  "ludichat.cobbreeding:cobbreeding:2.4.1@jar",
                                             "name":  "Cobbreeding",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  475560,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0066.jar",
-                                                             "MD5":  "c8b8d36e66af37edf4711632bb82da36"
+                                                             "size":  477771,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0025.jar",
+                                                             "MD5":  "300d60afe47c6e63d25bf2fc1a2ef045"
                                                          }
                                         },
                                         {
@@ -674,13 +694,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.bawnorton.configurable.platform:configurable:3.5.2@jar",
+                                            "id":  "com.bawnorton.configurable.platform:configurable:3.5.3@jar",
                                             "name":  "Configurable",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  545247,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0068.jar",
-                                                             "MD5":  "c82791281f26785531f82c0913967b58"
+                                                             "size":  545065,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0026.jar",
+                                                             "MD5":  "fd73069f771f8aec3dfc53e18d0c03b3"
                                                          }
                                         },
                                         {
@@ -704,33 +724,43 @@
                                                          }
                                         },
                                         {
-                                            "id":  "eu.midnightdust:customsplashscreen:2.2.0@jar",
+                                            "id":  "com.ludwici:cri:1.10.1@jar",
+                                            "name":  "Cobblemon Raid Dens Icons",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  1128973,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0027.jar",
+                                                             "MD5":  "595d158c4a740d572a086f6e743021d4"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "eu.midnightdust:customsplashscreen:2.2.2@jar",
                                             "name":  "Custom Splash Screen",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  660554,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0071.jar",
-                                                             "MD5":  "c05035d6d151259def5174d9713f8b68"
+                                                             "size":  668462,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0028.jar",
+                                                             "MD5":  "4cbbb0b67d44e66711d8cf62b71b5dfa"
                                                          }
                                         },
                                         {
-                                            "id":  "dev.isxander:debugify:1.21.1+1.0@jar",
+                                            "id":  "generated.fabricmod:debugify:1.21.1+1.1@jar",
                                             "name":  "Debugify",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  289006,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.13/asset-0003.jar",
-                                                             "MD5":  "4020b2ca9c43f5d5919e1f361bf04daa"
+                                                             "size":  289699,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0029.jar",
+                                                             "MD5":  "048a96ad329cf72eedd30cb18d0e6ba5"
                                                          }
                                         },
                                         {
-                                            "id":  "net.blay09.mods:defaultoptions:21.1.7@jar",
+                                            "id":  "net.blay09.mods:defaultoptions:21.1.8@jar",
                                             "name":  "Default Options",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  105044,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0073.jar",
-                                                             "MD5":  "e9741ff659f52cc54ab46468b8a73aea"
+                                                             "size":  107949,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0030.jar",
+                                                             "MD5":  "f08f526208ebc7d17218af53c48a1fd9"
                                                          }
                                         },
                                         {
@@ -744,33 +774,33 @@
                                                          }
                                         },
                                         {
-                                            "id":  "traben.entity_model_features:entity_model_features:3.2.4@jar",
+                                            "id":  "traben.entity_model_features:entity_model_features:3.3.12@jar",
                                             "name":  "Entity Model Features",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  565280,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0076.jar",
-                                                             "MD5":  "91f3be98f2f2cd76d3ad68525f76ff79"
+                                                             "size":  653743,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0031.jar",
+                                                             "MD5":  "acd5d418f0a3189c550f86d59375506f"
                                                          }
                                         },
                                         {
-                                            "id":  "traben.entity_texture_features:entity_texture_features:7.1@jar",
+                                            "id":  "traben.entity_texture_features:entity_texture_features:7.2.7@jar",
                                             "name":  "Entity Texture Features",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  745421,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0077.jar",
-                                                             "MD5":  "ae33b3cdbe2d7b431e5d36c41efb34c9"
+                                                             "size":  805015,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0032.jar",
+                                                             "MD5":  "e448c4ba8b1b3380ce021ac8549a9a22"
                                                          }
                                         },
                                         {
-                                            "id":  "dev.tr7zw:entityculling:1.10.5@jar",
+                                            "id":  "dev.tr7zw:entityculling:1.12.1@jar",
                                             "name":  "EntityCulling",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1595131,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0075.jar",
-                                                             "MD5":  "833cb8fd661a52acf63856d22e45f832"
+                                                             "size":  1533262,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0033.jar",
+                                                             "MD5":  "53331705d5f2f5e70389a130baf91890"
                                                          }
                                         },
                                         {
@@ -784,33 +814,43 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.euphoriapatches:euphoria_patcher:1.9.3-r5.8.1-fabric@jar",
-                                            "name":  "Euphoria Patcher",
+                                            "id":  "generated.fabricmod:euphoriapatcher:1.10.5-r5.9.3-fabric@jar",
+                                            "name":  "EuphoriaPatcher",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  4269082,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.13/asset-0004.jar",
-                                                             "MD5":  "10118eb8d1d767a912ff88c4e5cdf01a"
+                                                             "size":  4602936,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0034.jar",
+                                                             "MD5":  "ef7dd783ba5fc04ea4d4982122c27dc0"
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:fabric-api:0.116.14+1.21.1@jar",
+                                            "id":  "generated.fabricmod:fabric-api:0.116.18+1.21.1@jar",
                                             "name":  "Fabric API",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2451978,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0079.jar",
-                                                             "MD5":  "777f1430b4d18ed9d7f4ad18ed0c0012"
+                                                             "size":  2453884,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0035.jar",
+                                                             "MD5":  "229074b196b63a366ba2a12a19150f8c"
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:fabric-language-kotlin:1.13.13+kotlin.2.4.10@jar",
+                                            "id":  "generated.fabricmod:fabric-language-kotlin:1.14.2+kotlin.2.4.21@jar",
                                             "name":  "Fabric Language Kotlin",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  8076363,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0080.jar",
-                                                             "MD5":  "b70470268be8c74a10e10b24a2bf7df6"
+                                                             "size":  8142878,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0036.jar",
+                                                             "MD5":  "08b201c7d0e80ba7a3d77cca0b2d3d3f"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "de.keksuccino:fancymenu:3.10.0@jar",
+                                            "name":  "FancyMenu",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  36758572,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0037.jar",
+                                                             "MD5":  "88912355e1554aa2f44b15f662959724"
                                                          }
                                         },
                                         {
@@ -821,16 +861,6 @@
                                                              "size":  123450,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0081.jar",
                                                              "MD5":  "b8513c8c3eef01ea1117ed8d8cba060d"
-                                                         }
-                                        },
-                                        {
-                                            "id":  "me.rufia:fightorflight:0.10.9@jar",
-                                            "name":  "Cobblemon Fight or Flight Fabric",
-                                            "type":  "FabricMod",
-                                            "artifact":  {
-                                                             "size":  1424525,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0082.jar",
-                                                             "MD5":  "8dc714c8c95f504a3c2176834288a979"
                                                          }
                                         },
                                         {
@@ -854,33 +884,33 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.supermartijn642:fusion:1.2.12@jar",
+                                            "id":  "com.supermartijn642:fusion:1.3.16@jar",
                                             "name":  "Fusion",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  515411,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0085.jar",
-                                                             "MD5":  "2220961413c51080d4ce12c0fb5f958d"
+                                                             "size":  913396,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0038.jar",
+                                                             "MD5":  "5bd8a36163aed04bdce853c949c96832"
                                                          }
                                         },
                                         {
-                                            "id":  "me.fzzyhmstrs:fzzy_config:0.7.6+1.21@jar",
+                                            "id":  "me.fzzyhmstrs:fzzy_config:0.7.7+1.21@jar",
                                             "name":  "Fzzy Config",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2365335,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0086.jar",
-                                                             "MD5":  "dcedb9014b228c01941b2ef4f2743f19"
+                                                             "size":  2387721,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0039.jar",
+                                                             "MD5":  "91e320fdecd41ade301320888e540ace"
                                                          }
                                         },
                                         {
-                                            "id":  "software.bernie:geckolib:4.9.2@jar",
+                                            "id":  "software.bernie:geckolib:4.9.3@jar",
                                             "name":  "GeckoLib 4",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  660416,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0087.jar",
-                                                             "MD5":  "fe791e7b10c8b7c736ea3e57747eac09"
+                                                             "size":  664463,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0040.jar",
+                                                             "MD5":  "813dd353c0ba2ba96304eaa16a9a7b8f"
                                                          }
                                         },
                                         {
@@ -944,13 +974,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:immediatelyfast:1.6.11+1.21.1@jar",
+                                            "id":  "generated.fabricmod:immediatelyfast:1.6.15+1.21.1@jar",
                                             "name":  "ImmediatelyFast",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  336763,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0094.jar",
-                                                             "MD5":  "ff2f33b4f400d9ccf3bc6e160246b101"
+                                                             "size":  342235,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0041.jar",
+                                                             "MD5":  "66b44206af5115e07e22804ee414fb02"
                                                          }
                                         },
                                         {
@@ -1024,13 +1054,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:libjf:3.17.3@jar",
+                                            "id":  "generated.fabricmod:libjf:3.17.5@jar",
                                             "name":  "LibJF",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1283376,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0102.jar",
-                                                             "MD5":  "3f4c4677e93c4a6701d085bedd125f7c"
+                                                             "size":  1282450,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0042.jar",
+                                                             "MD5":  "82ddd796de56076c4b023284acd6fada"
                                                          }
                                         },
                                         {
@@ -1074,13 +1104,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.github.yajatkaul:mega_showdown:1.8.4+1.7.3+1.21.1@jar",
-                                            "name":  "Cobblemon:Mega Showdown",
+                                            "id":  "generated.fabricmod:mega_showdown:fabric-1.3.3+1.8.4+1.21.1-release@jar",
+                                            "name":  "Mega_showdown",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  17129484,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.13/asset-0005.jar",
-                                                             "MD5":  "2fbba7f5ac239a122a26cb12196ebd7f"
+                                                             "size":  20262744,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0043.jar",
+                                                             "MD5":  "a8393361777d3c4ec7ec7d6cd48df633"
                                                          }
                                         },
                                         {
@@ -1094,13 +1124,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "eu.midnightdust.fabric.core:midnightlib:1.7.5@jar",
+                                            "id":  "eu.midnightdust.core:midnightlib:1.10.0@jar",
                                             "name":  "MidnightLib",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  62853,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0109.jar",
-                                                             "MD5":  "5134d5bc38b64b8cd8d22f78b8a6a296"
+                                                             "size":  63975,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0044.jar",
+                                                             "MD5":  "71687a865584e55391476c2965483518"
                                                          }
                                         },
                                         {
@@ -1114,13 +1144,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "moe.okaeri:mobsbegone:0.0.7@jar",
+                                            "id":  "moe.okaeri:mobsbegone:0.0.9@jar",
                                             "name":  "MobsBeGone",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  9837,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0111.jar",
-                                                             "MD5":  "5995db9172923b0476e76e5f8356e6e1"
+                                                             "size":  10563,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0045.jar",
+                                                             "MD5":  "6d6e889174e5584f8d1d185897e1afa1"
                                                          }
                                         },
                                         {
@@ -1134,33 +1164,33 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.terraformersmc:modmenu:11.0.4@jar",
+                                            "id":  "com.terraformersmc:modmenu:11.0.5@jar",
                                             "name":  "Mod Menu",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  973059,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0113.jar",
-                                                             "MD5":  "b2b9c53a887c100f780708c4f36db6c4"
+                                                             "size":  975846,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0046.jar",
+                                                             "MD5":  "52ed39a3015ef3e6b02915d87a8aabae"
                                                          }
                                         },
                                         {
-                                            "id":  "me.justahuman:more_cobblemon_tweaks:1.3.3@jar",
+                                            "id":  "me.justahuman:more_cobblemon_tweaks:1.3.6@jar",
                                             "name":  "MoreCobblemonTweaks",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  137626,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0114.jar",
-                                                             "MD5":  "8c9e870b8dc446ffdc98d106f65da075"
+                                                             "size":  138044,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0047.jar",
+                                                             "MD5":  "db9cb0df7f3a21b82ecfbd7f26b81622"
                                                          }
                                         },
                                         {
-                                            "id":  "ca.fxco:moreculling:1.0.8@jar",
+                                            "id":  "ca.fxco:moreculling:1.0.11@jar",
                                             "name":  "More Culling",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  332100,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0115.jar",
-                                                             "MD5":  "6aedbcb1811e58e1b357e9a9d98c1eae"
+                                                             "size":  333742,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0048.jar",
+                                                             "MD5":  "bf2c3867fbf90b64a26ce61adfc65828"
                                                          }
                                         },
                                         {
@@ -1174,23 +1204,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "net.kosmo.music:musicnotification:3.0.0@jar",
+                                            "id":  "net.kosmo.music:musicnotification:3.4.0@jar",
                                             "name":  "MusicNotification",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  139713,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0117.jar",
-                                                             "MD5":  "b532a1d0bf3a3dfc405a072104c6b46c"
+                                                             "size":  183913,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0049.jar",
+                                                             "MD5":  "a5bb689b0b15443403362f873f5cd213"
                                                          }
                                         },
                                         {
-                                            "id":  "com.bawnorton.neruina.platform:neruina:3.3.3@jar",
+                                            "id":  "com.bawnorton.neruina.platform:neruina:3.3.5@jar",
                                             "name":  "Neruina",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  860092,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0118.jar",
-                                                             "MD5":  "db817a6db200bafb884e87899d4dfb74"
+                                                             "size":  860240,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0050.jar",
+                                                             "MD5":  "520b7430526d8ef8883e3e7f73f346d3"
                                                          }
                                         },
                                         {
@@ -1214,23 +1244,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.aizistral:nochatrestrictions:Fabric-MC1.21.11-v1.0.0@jar",
+                                            "id":  "com.aizistral:nochatrestrictions:Fabric-MC1.21.11-v1.0.3@jar",
                                             "name":  "No Chat Restrictions",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  9907,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0121.jar",
-                                                             "MD5":  "e00f093d0e9e903b3ed0d1784315d88d"
+                                                             "size":  10182,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0051.jar",
+                                                             "MD5":  "f655d334a67e89058bb020bbc11b2cd0"
                                                          }
                                         },
                                         {
-                                            "id":  "dev.tr7zw:notenoughanimations:1.12.4@jar",
+                                            "id":  "dev.tr7zw:notenoughanimations:1.12.7@jar",
                                             "name":  "NotEnoughAnimations",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1948132,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0122.jar",
-                                                             "MD5":  "6afb17a78bec2140a3904dcd6d1a3d92"
+                                                             "size":  1876209,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0052.jar",
+                                                             "MD5":  "4c834d72e3b95bb132c8332c3324bf26"
                                                          }
                                         },
                                         {
@@ -1244,13 +1274,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.pcrgaming:obc:1.3.0@jar",
+                                            "id":  "com.pcrgaming:obc:1.5.0-fabric@jar",
                                             "name":  "Only Bottle Caps",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  250451,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0124.jar",
-                                                             "MD5":  "2380d10d347cf1c18dfdf9eec429f599"
+                                                             "size":  250957,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0053.jar",
+                                                             "MD5":  "350d0f0fd55f4c9e7912197bf1cd8b92"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "com.ourstory.oscobblemon:os_cobblemon_library:1.5.2@jar",
+                                            "name":  "OS Cobblemon Library",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  84850,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0054.jar",
+                                                             "MD5":  "6866557f464b52940bbb29fc6ece912f"
                                                          }
                                         },
                                         {
@@ -1294,33 +1334,33 @@
                                                          }
                                         },
                                         {
-                                            "id":  "pigcart.particlerain.loaders:particlerain:4.0.0-beta.10@jar",
+                                            "id":  "pigcart.particlerain.loaders:particlerain:4.0.3@jar",
                                             "name":  "Particle Rain",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  608651,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0128.jar",
-                                                             "MD5":  "d756346fdf583d11436a40aad0993d68"
+                                                             "size":  627175,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0055.jar",
+                                                             "MD5":  "435e9ad7592f267f54e73c0c106a9024"
                                                          }
                                         },
                                         {
-                                            "id":  "com.leclowndu93150:particular:1.5.5@jar",
+                                            "id":  "com.leclowndu93150:particular:1.6.1@jar",
                                             "name":  "Particular Reforged",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  285813,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0130.jar",
-                                                             "MD5":  "d044b84c34a12bb2f7db88c81ee3902a"
+                                                             "size":  367025,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0056.jar",
+                                                             "MD5":  "ca3831a01c2c059d07c2ca2a016a01b6"
                                                          }
                                         },
                                         {
-                                            "id":  "com.dremixam.pastureLoot:pasture-loot:1.0.5+1.21.1@jar",
+                                            "id":  "com.dremixam.pastureloot.platforms:pastureloot:2.0.0+1.21.1@jar",
                                             "name":  "PastureLoot",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  45871,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0131.jar",
-                                                             "MD5":  "ef3ebf8d082e4af1fb6f54524e8c1f70"
+                                                             "size":  496522,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0057.jar",
+                                                             "MD5":  "dfcd0e8e57205555bdbf0f2500cfc166"
                                                          }
                                         },
                                         {
@@ -1334,33 +1374,43 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.blackgear:platform:1.3.3@jar",
+                                            "id":  "generated.fabricmod:placeholder-api:2.4.2+1.21@jar",
+                                            "name":  "Placeholder API",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  232325,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0058.jar",
+                                                             "MD5":  "4de8568a088a276c94168514d625413d"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "com.blackgear:platform:1.4.2@jar",
                                             "name":  "Platform",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  735744,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0133.jar",
-                                                             "MD5":  "c5023c794d97255c94493ad53780dcdb"
+                                                             "size":  837643,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0059.jar",
+                                                             "MD5":  "b56aa8ca45f601fb9c453c8ef5444df3"
                                                          }
                                         },
                                         {
-                                            "id":  "chadlymasterson.playerxp:playerxp:1.0.9+1.21.1@jar",
+                                            "id":  "chadlymasterson.playerxp:playerxp:1.1.2+1.21.1@jar",
                                             "name":  "PlayerXP",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  10818,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0134.jar",
-                                                             "MD5":  "678d412cb49d046d3597ae1c26cb8baa"
+                                                             "size":  16893,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0060.jar",
+                                                             "MD5":  "208b2659e1271f5cd76409f1ac686c05"
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:pnddepartmentshop:0.1.3@jar",
+                                            "id":  "generated.fabricmod:pnddepartmentshop:0.1.4@jar",
                                             "name":  "평누도 백화점",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3308634,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.281/asset-0001.jar",
-                                                             "MD5":  "4923f6bd6065187efa8db720d6f7bd29"
+                                                             "size":  3308946,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0061.jar",
+                                                             "MD5":  "e966d72d2893273988b8b44015193ff1"
                                                          }
                                         },
                                         {
@@ -1381,6 +1431,16 @@
                                                              "size":  11056,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.12/asset-0004.jar",
                                                              "MD5":  "95d1030f7267cb06fd2b13f126f2bec1"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "generated.fabricmod:pyeongnudo_battle_tower_compat:1.0.0@jar",
+                                            "name":  "Pyeongnudo Battle Tower Compatibility",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  2793,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0062.jar",
+                                                             "MD5":  "03762b7d737fae51261d4258eb8fe5b0"
                                                          }
                                         },
                                         {
@@ -1414,33 +1474,33 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo.rctcompat:pyeongnudo_rctcompat:0.1.0@jar",
+                                            "id":  "dev.pyeongnudo.rctcompat:pyeongnudo_rctcompat:0.1.1@jar",
                                             "name":  "Pyeongnudo RCT Compatibility",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  6270,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.31/asset-0002.jar",
-                                                             "MD5":  "51470178e972afcdf5e69900e77122da"
+                                                             "size":  6271,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0063.jar",
+                                                             "MD5":  "b6e635d909ec552644f1ee42c801cc7a"
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.4.11@jar",
+                                            "id":  "dev.cobbleeconomy:cobbleeconomy:0.4.12@jar",
                                             "name":  "평누도 코블몬 원정대",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  5105448,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.278/asset-0002.jar",
-                                                             "MD5":  "00c539cf6bde7a1ee40ced68627ed6c8"
+                                                             "size":  5105451,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0064.jar",
+                                                             "MD5":  "cd7da808d8d5df72e4c8f95963de8a1b"
                                                          }
                                         },
                                         {
-                                            "id":  "dev.pyeongnudo.wiki:pyeongnudo_wiki:1.1.6@jar",
+                                            "id":  "dev.pyeongnudo.wiki:pyeongnudo_wiki:1.1.7@jar",
                                             "name":  "평누도 포켓몬 위키",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3568766,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.276/asset-0004.jar",
-                                                             "MD5":  "13c796a3d38d80c09ae157137a435030"
+                                                             "size":  3568743,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0065.jar",
+                                                             "MD5":  "cde5eb988f523915fa5d16a57e16696d"
                                                          }
                                         },
                                         {
@@ -1454,53 +1514,53 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.gitlab.srcmc:rctapi:0.15.2-beta@jar",
+                                            "id":  "com.gitlab.srcmc:rctapi:0.16.2-beta@jar",
                                             "name":  "Radical Cobblemon Trainers API",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  234250,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0139.jar",
-                                                             "MD5":  "fe02b1985ce18f764f41d8e802d38035"
+                                                             "size":  267864,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0066.jar",
+                                                             "MD5":  "f50a7b37d424a1f43529d46e74cdefbb"
                                                          }
                                         },
                                         {
-                                            "id":  "com.gitlab.srcmc:rctmod:0.18.1-beta@jar",
+                                            "id":  "com.gitlab.srcmc:rctmod:0.19.2-beta@jar",
                                             "name":  "Radical Cobblemon Trainers",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  6757956,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0140.jar",
-                                                             "MD5":  "25c546e42d63947ac2ecdcd12823cc42"
+                                                             "size":  6807725,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0067.jar",
+                                                             "MD5":  "44429efa6748ac041c85ac30a06bfd4e"
                                                          }
                                         },
                                         {
-                                            "id":  "com.supermartijn642:rechiseled:1.2.4@jar",
+                                            "id":  "com.supermartijn642:rechiseled:1.2.6@jar",
                                             "name":  "Rechiseled",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  11913849,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0141.jar",
-                                                             "MD5":  "ed15b2605a5e08998aad62a371b64a2a"
+                                                             "size":  11951835,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0068.jar",
+                                                             "MD5":  "c0907527fc08a6238887ed29967a179f"
                                                          }
                                         },
                                         {
-                                            "id":  "generated.fabricmod:reeses-sodium-options:2.2.3+mc1.21.1@jar",
+                                            "id":  "generated.fabricmod:reeses-sodium-options:2.2.4+mc1.21.1@jar",
                                             "name":  "Reese\u0027s Sodium Options",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  259211,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0142.jar",
-                                                             "MD5":  "bb87d3438852737e636bf6b3f1f027d5"
+                                                             "size":  257229,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0069.jar",
+                                                             "MD5":  "25338024218bab30ea8297175944ae28"
                                                          }
                                         },
                                         {
-                                            "id":  "com.telepathicgrunt.repurposedstructures:repurposed_structures:7.5.21+1.21.1-fabric@jar",
+                                            "id":  "com.telepathicgrunt.repurposedstructures:repurposed_structures:7.5.22+1.21.1-fabric@jar",
                                             "name":  "Repurposed Structures",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  8202318,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0143.jar",
-                                                             "MD5":  "deb4b37a167bf3eedd2345573c832936"
+                                                             "size":  8203618,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0070.jar",
+                                                             "MD5":  "9465d88db9aeecc3cc939671f763fdb3"
                                                          }
                                         },
                                         {
@@ -1524,13 +1584,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "io.gitlab.jfronny:respackopts:4.11.3@jar",
+                                            "id":  "io.gitlab.jfronny.respackopts.platform:respackopts:4.14.0+1.21.1.4@jar",
                                             "name":  "Resource Pack Options",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  530926,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0146.jar",
-                                                             "MD5":  "c368111712351fefa2abe462fae47cc6"
+                                                             "size":  557358,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0071.jar",
+                                                             "MD5":  "654feee83627108cee2fa4fbd5bf2cc3"
                                                          }
                                         },
                                         {
@@ -1554,13 +1614,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "chadlymasterson.safepastures:safepastures:1.1.1+1.21.1@jar",
+                                            "id":  "chadlymasterson.safepastures:safepastures:1.1.2+1.21.1@jar",
                                             "name":  "Safe Pastures",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  16518,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0148.jar",
-                                                             "MD5":  "af5597adebbfad7f73c01e118d93bf97"
+                                                             "size":  16517,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0072.jar",
+                                                             "MD5":  "1abedc4ce0483d12ea2c7159890af4a2"
                                                          }
                                         },
                                         {
@@ -1574,13 +1634,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "net.caffeinemc.mods:sodium:0.8.12+mc1.21.1@jar",
+                                            "id":  "net.caffeinemc.mods:sodium:0.8.13+mc1.21.1@jar",
                                             "name":  "Sodium",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1573180,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0151.jar",
-                                                             "MD5":  "4ee4e9d6d047e0bbefaf45deca603fa6"
+                                                             "size":  1574609,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0073.jar",
+                                                             "MD5":  "5d9c08eefe9ea23cd5201e93332e3450"
                                                          }
                                         },
                                         {
@@ -1589,8 +1649,8 @@
                                             "type":  "FabricMod",
                                             "artifact":  {
                                                              "size":  988478,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0152.jar",
-                                                             "MD5":  "642d3aaa4161a9df7b709a6b7f378f17"
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0074.jar",
+                                                             "MD5":  "ae7046dd3850f1ad3a9bd7e954b1cb8a"
                                                          }
                                         },
                                         {
@@ -1599,8 +1659,8 @@
                                             "type":  "FabricMod",
                                             "artifact":  {
                                                              "size":  2996065,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0153.jar",
-                                                             "MD5":  "44bf607ca1a8bfb7410514db85ac9c28"
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0075.jar",
+                                                             "MD5":  "0fcc53d829b59aea00440c6bed12c11d"
                                                          }
                                         },
                                         {
@@ -1609,28 +1669,28 @@
                                             "type":  "FabricMod",
                                             "artifact":  {
                                                              "size":  1670672,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0154.jar",
-                                                             "MD5":  "3e02634de2d379bf58b58bb14c2e5481"
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0076.jar",
+                                                             "MD5":  "fdbe84367afca32bfcd6e467e275d006"
                                                          }
                                         },
                                         {
-                                            "id":  "com.sonicether.soundphysics:sound_physics_remastered:1.21.1-1.5.1@jar",
+                                            "id":  "com.sonicether.soundphysics:sound_physics_remastered:1.21.1-1.5.2@jar",
                                             "name":  "Sound Physics Remastered",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  205671,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0155.jar",
-                                                             "MD5":  "ca55ac70824e229cd1175238b50608a6"
+                                                             "size":  205305,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0077.jar",
+                                                             "MD5":  "3c50e61079c4ea16bc9a98e765bb8bc5"
                                                          }
                                         },
                                         {
-                                            "id":  "gg.meza:soundsbegone:1.5.2@jar",
+                                            "id":  "gg.meza:soundsbegone:1.6.0@jar",
                                             "name":  "SoundsBeGone",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  6151935,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0156.jar",
-                                                             "MD5":  "393098afb33296c2d9f2f56e53c9c4ec"
+                                                             "size":  6151886,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0078.jar",
+                                                             "MD5":  "a7e00405be0b4b532a937bd44d8be0bd"
                                                          }
                                         },
                                         {
@@ -1664,43 +1724,43 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.supermartijn642.core:supermartijn642corelib:1.1.21@jar",
+                                            "id":  "com.supermartijn642.core:supermartijn642corelib:1.1.26+a@jar",
                                             "name":  "SuperMartijn642\u0027s Core Lib",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  616830,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0160.jar",
-                                                             "MD5":  "3da1b1056bb9b19eee8957a537e6c5e0"
+                                                             "size":  653121,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0079.jar",
+                                                             "MD5":  "ec6d4fd8c9c1806e0b61daa0a341ad69"
                                                          }
                                         },
                                         {
-                                            "id":  "us.timinc.mc.cobblemon.timcore:tim_core:1.7.3-fabric-1.32.0@jar",
+                                            "id":  "us.timinc.mc.cobblemon.timcore:tim_core:1.8.4-fabric-1.38.0@jar",
                                             "name":  "Tim Core",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  304444,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0162.jar",
-                                                             "MD5":  "f206df5480d269c0c0fe27846acb1d89"
+                                                             "size":  345296,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0080.jar",
+                                                             "MD5":  "96294b6aea595958c17b197c1cce3de3"
                                                          }
                                         },
                                         {
-                                            "id":  "kiwiapollo.tmcraft:tmcraft:1.4.18+1.7.3@jar",
+                                            "id":  "kiwiapollo.tmcraft:tmcraft:1.4.19+1.8.4@jar",
                                             "name":  "TM Craft",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  3360417,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0163.jar",
-                                                             "MD5":  "3bb04243884b305b228de0ed352ae89a"
+                                                             "size":  6505640,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0081.jar",
+                                                             "MD5":  "b423458f7d691f8f0c1babfa8bde541c"
                                                          }
                                         },
                                         {
-                                            "id":  "com.tom.storagemod:toms_storage:2.3.0@jar",
+                                            "id":  "com.tom.storagemod:toms_storage:2.4.2@jar",
                                             "name":  "Tom\u0027s Simple Storage Mod",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1962781,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0164.jar",
-                                                             "MD5":  "46341f7e08a115bcc3b5b114dff671fb"
+                                                             "size":  1971384,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0082.jar",
+                                                             "MD5":  "8bd24695439b22b14a4d91bd53737ecf"
                                                          }
                                         },
                                         {
@@ -1724,13 +1784,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "com.blackgear.vanillabackport.core:vanillabackport:1.1.7.10@jar",
+                                            "id":  "com.blackgear.vanillabackport.core:vanillabackport:1.2.2@jar",
                                             "name":  "VanillaBackport",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  54994072,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0167.jar",
-                                                             "MD5":  "45d17963d8b43aa00251e422861b86e3"
+                                                             "size":  63988749,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0083.jar",
+                                                             "MD5":  "c457eb7a9cd73eca4d03d65dc0aa4e42"
                                                          }
                                         },
                                         {
@@ -1744,13 +1804,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "net.blay09.mods:waystones:21.1.37@jar",
+                                            "id":  "net.blay09.mods:waystones:21.1.46@jar",
                                             "name":  "Waystones",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1226801,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0169.jar",
-                                                             "MD5":  "251062ba3e8f093538e396cb2b93d05a"
+                                                             "size":  1248666,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0084.jar",
+                                                             "MD5":  "a62313ad106b7745b5d5b81abacc19d1"
                                                          }
                                         },
                                         {
@@ -1774,23 +1834,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "xaero.minimap:xaerominimap:26.4.2@jar",
+                                            "id":  "xaero.minimap:xaerominimap:26.6.0@jar",
                                             "name":  "Xaero\u0027s Minimap",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2233608,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0172.jar",
-                                                             "MD5":  "c5dc72b99f6bca09e42e5786da1c9b97"
+                                                             "size":  2234556,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0085.jar",
+                                                             "MD5":  "19b4a2fa10cf4153c51ff0e1e2c6efe7"
                                                          }
                                         },
                                         {
-                                            "id":  "xaero.map:xaeroworldmap:1.44.2@jar",
+                                            "id":  "xaero.map:xaeroworldmap:1.47.0@jar",
                                             "name":  "Xaero\u0027s World Map",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1448218,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0173.jar",
-                                                             "MD5":  "779cde2dce63cf90d6b318933c2d1080"
+                                                             "size":  1456162,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0086.jar",
+                                                             "MD5":  "eeee9b64152f38396ff52b6dbcc0f38f"
                                                          }
                                         },
                                         {
@@ -1804,13 +1864,23 @@
                                                          }
                                         },
                                         {
-                                            "id":  "org.zamega:zamega:1.7.3@jar",
+                                            "id":  "org.zamega:zamega:1.8.2+1.8.2@jar",
                                             "name":  "Zamega",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  2387420,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.11/asset-0175.jar",
-                                                             "MD5":  "42019a1020a2c9ffccf529a42c968a16"
+                                                             "size":  896936,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0087.jar",
+                                                             "MD5":  "60f2f9b840be6b0ce82a543e11a9fffd"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "org.codeberg.zenxarch.fastnoise:zfastnoise:1.0.13+1.21@jar",
+                                            "name":  "Fast Noise",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  38857,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0088.jar",
+                                                             "MD5":  "cc5d3de4adb10db5af20db16ea9b6fe1"
                                                          }
                                         },
                                         {
