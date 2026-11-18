@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.282",
+                        "version":  "0.1.283",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1501,6 +1501,16 @@
                                                              "size":  3568743,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0065.jar",
                                                              "MD5":  "cde5eb988f523915fa5d16a57e16696d"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "generated.fabricmod:pyeongnudo_wild_structures:1.0.0@jar",
+                                            "name":  "Pyeongnudo Wild Structures",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  8532,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.283/asset-0001.jar",
+                                                             "MD5":  "212091047c1897b59d782c78c87e3677"
                                                          }
                                         },
                                         {
