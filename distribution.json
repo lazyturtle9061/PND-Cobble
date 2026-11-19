@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.285",
+                        "version":  "0.1.286",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1401,6 +1401,16 @@
                                                              "size":  3308946,
                                                              "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.282/asset-0061.jar",
                                                              "MD5":  "e966d72d2893273988b8b44015193ff1"
+                                                         }
+                                        },
+                                        {
+                                            "id":  "generated.fabricmod:pnd_session_recovery:1.0.0@jar",
+                                            "name":  "PND Session Recovery",
+                                            "type":  "FabricMod",
+                                            "artifact":  {
+                                                             "size":  5880,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.286/asset-0001.jar",
+                                                             "MD5":  "5727de19aee6584b3b23d1f293df5bd6"
                                                          }
                                         },
                                         {
