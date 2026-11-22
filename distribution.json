@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.287",
+                        "version":  "0.1.288",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -1864,13 +1864,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.xerneas.sanctuary:xerneas_sanctuary:1.4.3@jar",
+                                            "id":  "dev.xerneas.sanctuary:xerneas_sanctuary:1.5.1@jar",
                                             "name":  "Xerneas Sanctuary",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1458736,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.287/asset-0001.jar",
-                                                             "MD5":  "33c740cba542e836e75390776a97344c"
+                                                             "size":  1539322,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.288/asset-0001.jar",
+                                                             "MD5":  "0d0eb67d2e0b4a15e38916e8b509c908"
                                                          }
                                         },
                                         {
