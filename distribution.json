@@ -7,7 +7,7 @@
                         "name":  "PND Cobble",
                         "description":  "PND Cobble Minecraft Server",
                         "icon":  null,
-                        "version":  "0.1.288",
+                        "version":  "0.1.289",
                         "address":  "218.156.180.181",
                         "minecraftVersion":  "1.21.1",
                         "mainServer":  true,
@@ -624,13 +624,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.cobbleverse.npcpose:cobblequest_npc_pose:0.1.0@jar",
+                                            "id":  "dev.cobbleverse.npcpose:cobblequest_npc_pose:0.1.1@jar",
                                             "name":  "CobbleQuest NPC Pose \u0026 Auto Skin Model",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  38952,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.179/asset-0002.jar",
-                                                             "MD5":  "826aab9c7190c14214758ce6a4e2a440"
+                                                             "size":  48225,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.289/asset-0001.jar",
+                                                             "MD5":  "852cdf49cb15f33ad7076a69884fbc0c"
                                                          }
                                         },
                                         {
@@ -1864,13 +1864,13 @@
                                                          }
                                         },
                                         {
-                                            "id":  "dev.xerneas.sanctuary:xerneas_sanctuary:1.5.1@jar",
+                                            "id":  "dev.xerneas.sanctuary:xerneas_sanctuary:1.5.2@jar",
                                             "name":  "Xerneas Sanctuary",
                                             "type":  "FabricMod",
                                             "artifact":  {
-                                                             "size":  1539322,
-                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.288/asset-0001.jar",
-                                                             "MD5":  "0d0eb67d2e0b4a15e38916e8b509c908"
+                                                             "size":  1540291,
+                                                             "url":  "https://github.com/lazyturtle9061/PND-Cobble/releases/download/pack-v0.1.289/asset-0002.jar",
+                                                             "MD5":  "2797474b4f082011817ba0b4e49c41e1"
                                                          }
                                         },
                                         {
